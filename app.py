@@ -5,37 +5,15 @@ import psycopg2
 import pymysql
 import numpy as np
 from werkzeug.utils import secure_filename
-from dotenv import load_dotenv
+from config import Config
 
-load_dotenv()
+config = Config()
 app = Flask(__name__)
-
-UPLOAD_FOLDER = os.getenv('UPLOAD_FOLDER', 'uploads')
-ALLOWED_EXTENSIONS = {'csv', 'xlsx', 'xls'}
-app.config['UPLOAD_FOLDER'] = UPLOAD_FOLDER
-app.config['MAX_CONTENT_LENGTH'] = 100 * 1024 * 1024
-
-os.makedirs(UPLOAD_FOLDER, exist_ok=True)
-
-
-PG_CONFIG = {
-    'host': os.getenv('PG_HOST', 'localhost'),
-    'port': os.getenv('PG_PORT', '5432'),
-    'database': os.getenv('PG_DATABASE', 'excel_data_db'),
-    'user': os.getenv('PG_USER', 'postgres'),
-    'password': os.getenv('PG_PASSWORD', '')
-}
-
-MYSQL_CONFIG = {
-    'host': os.getenv('MYSQL_HOST', 'localhost'),
-    'port': int(os.getenv('MYSQL_PORT', '3306')),
-    'database': os.getenv('MYSQL_DATABASE', 'excel_data_db'),
-    'user': os.getenv('MYSQL_USER', 'root'),
-    'password': os.getenv('MYSQL_PASSWORD', '')
-}
+app.config['UPLOAD_FOLDER'] = config.UPLOAD_FOLDER
+os.makedirs(config.UPLOAD_FOLDER, exist_ok=True)
 
 def allowed_file(filename):
-    return '.' in filename and filename.rsplit('.', 1)[1].lower() in ALLOWED_EXTENSIONS
+    return '.' in filename and filename.rsplit('.', 1)[1].lower() in config.ALLOWED_EXTENSIONS
 
 def load_and_clean_file(file_path):
     if file_path.endswith('.csv'):
@@ -55,7 +33,7 @@ def load_and_clean_file(file_path):
     return df
 
 def insert_to_postgres(df, table_name):
-    conn = psycopg2.connect(**PG_CONFIG)
+    conn = psycopg2.connect(**config.PG_CONFIG)
     cursor = conn.cursor()
     
     columns = []
@@ -84,7 +62,7 @@ def insert_to_postgres(df, table_name):
     return len(df)
 
 def insert_to_mysql(df, table_name):
-    conn = pymysql.connect(**MYSQL_CONFIG)
+    conn = pymysql.connect(**config.MYSQL_CONFIG)
     cursor = conn.cursor()
     
     columns = []
@@ -112,10 +90,6 @@ def insert_to_mysql(df, table_name):
     conn.close()
     return len(df)
 
-@app.route('/health', methods=['GET'])
-def health_check():
-    return jsonify({'status': 'healthy', 'message': 'API is running'})
-
 @app.route('/upload', methods=['POST'])
 def upload_file():
     if 'file' not in request.files:
@@ -127,7 +101,7 @@ def upload_file():
         return jsonify({'error': 'No file selected'}), 400
     
     if not allowed_file(file.filename):
-        return jsonify({'error': f'File type not allowed. Allowed: {ALLOWED_EXTENSIONS}'}), 400
+        return jsonify({'error': f'File type not allowed. Allowed: {config.ALLOWED_EXTENSIONS}'}), 400
     
     table_name = request.form.get('table_name', None)
     
@@ -167,7 +141,7 @@ def list_tables():
     
     try:
         if database == 'postgresql':
-            conn = psycopg2.connect(**PG_CONFIG)
+            conn = psycopg2.connect(**config.PG_CONFIG)
             cursor = conn.cursor()
             cursor.execute("SELECT table_name FROM information_schema.tables WHERE table_schema='public'")
             tables = [t[0] for t in cursor.fetchall()]
@@ -176,7 +150,7 @@ def list_tables():
             return jsonify({'database': 'postgresql', 'tables': tables})
         
         elif database == 'mysql':
-            conn = pymysql.connect(**MYSQL_CONFIG)
+            conn = pymysql.connect(**config.MYSQL_CONFIG)
             cursor = conn.cursor()
             cursor.execute("SHOW TABLES")
             tables = [t[0] for t in cursor.fetchall()]
@@ -196,7 +170,7 @@ def get_row_count(table_name):
     
     try:
         if database == 'postgresql':
-            conn = psycopg2.connect(**PG_CONFIG)
+            conn = psycopg2.connect(**config.PG_CONFIG)
             cursor = conn.cursor()
             cursor.execute(f"SELECT COUNT(*) FROM {table_name}")
             count = cursor.fetchone()[0]
@@ -205,7 +179,7 @@ def get_row_count(table_name):
             return jsonify({'table': table_name, 'database': 'postgresql', 'rows': count})
         
         elif database == 'mysql':
-            conn = pymysql.connect(**MYSQL_CONFIG)
+            conn = pymysql.connect(**config.MYSQL_CONFIG)
             cursor = conn.cursor()
             cursor.execute(f"SELECT COUNT(*) FROM {table_name}")
             count = cursor.fetchone()[0]
@@ -226,7 +200,7 @@ def get_table_data(table_name):
     
     try:
         if database == 'postgresql':
-            conn = psycopg2.connect(**PG_CONFIG)
+            conn = psycopg2.connect(**config.PG_CONFIG)
             query = f"SELECT * FROM {table_name} LIMIT {limit}"
             df = pd.read_sql_query(query, conn)
             conn.close()
@@ -238,7 +212,7 @@ def get_table_data(table_name):
             })
         
         elif database == 'mysql':
-            conn = pymysql.connect(**MYSQL_CONFIG)
+            conn = pymysql.connect(**config.MYSQL_CONFIG)
             query = f"SELECT * FROM {table_name} LIMIT {limit}"
             df = pd.read_sql_query(query, conn)
             conn.close()
@@ -261,7 +235,7 @@ def delete_table(table_name):
     
     try:
         if database == 'postgresql':
-            conn = psycopg2.connect(**PG_CONFIG)
+            conn = psycopg2.connect(**config.PG_CONFIG)
             cursor = conn.cursor()
             cursor.execute(f"DROP TABLE IF EXISTS {table_name}")
             conn.commit()
@@ -270,7 +244,7 @@ def delete_table(table_name):
             return jsonify({'success': True, 'message': f'Table {table_name} deleted from PostgreSQL'})
         
         elif database == 'mysql':
-            conn = pymysql.connect(**MYSQL_CONFIG)
+            conn = pymysql.connect(**config.MYSQL_CONFIG)
             cursor = conn.cursor()
             cursor.execute(f"DROP TABLE IF EXISTS {table_name}")
             conn.commit()
@@ -295,7 +269,7 @@ def search_table(table_name):
     
     try:
         if database == 'postgresql':
-            conn = psycopg2.connect(**PG_CONFIG)
+            conn = psycopg2.connect(**config.PG_CONFIG)
             query = f"SELECT * FROM {table_name} WHERE {column}::text LIKE '%{value}%' LIMIT 50"
             df = pd.read_sql_query(query, conn)
             conn.close()
@@ -309,7 +283,7 @@ def search_table(table_name):
             })
         
         elif database == 'mysql':
-            conn = pymysql.connect(**MYSQL_CONFIG)
+            conn = pymysql.connect(**config.MYSQL_CONFIG)
             query = f"SELECT * FROM {table_name} WHERE {column} LIKE '%{value}%' LIMIT 50"
             df = pd.read_sql_query(query, conn)
             conn.close()
