@@ -1,0 +1,1001 @@
+TransactionID,TransactionAmount,TransactionTime,Merchant,Category,IsFraud
+6e05ef57-f680-4900-b89a-b25a213d0f51,570.51,2023-02-13 12:42:34,Stout-Brown,Food,0
+06cd8e9b-48f4-4a6b-b330-91d120580319,3116.34,2023-12-14 01:32:59,"Gaines, Chapman and Esparza",Food,0
+6e056e56-c109-4a9a-bc19-6b39785bb63b,3114.05,2023-03-16 10:26:04,Wilson Inc,Food,0
+38940b8c-033e-49fa-9b60-9d677595204f,1096.48,2023-04-08 22:49:11,Harris Group,Clothing,0
+aee0334c-03fb-4cb5-81a6-7bf43cc2e042,4941.55,2023-05-28 18:15:42,"Hill, Nguyen and Martinez",Clothing,0
+0a9dee32-1401-482c-886a-ea8fbcb16fbc,4221.35,2023-03-05 17:37:05,Jones and Sons,Travel,0
+d2ad7309-6afe-47d1-b791-fc95b06230fd,3459.86,2023-10-24 19:06:32,Parrish LLC,Food,1
+3097c4b4-8f91-4c0a-9c62-cce459fb0ddb,3320.17,2023-01-09 03:38:40,"Benson, Perkins and White",Food,0
+601a4ebc-6733-402c-9518-a3d3c256406e,3239.54,2023-04-21 02:52:04,Jackson Inc,Travel,0
+93bdff42-02e3-4ac9-b596-3722e2a30db9,4044.15,2023-05-30 12:39:25,Wilkins-Williams,Clothing,0
+e2051942-7364-459c-b8bd-226636c6e374,2973.09,2023-04-24 11:35:22,Hamilton-Mendoza,Tech,0
+39cd9f45-9a9f-41b9-ba53-37e0f84c796c,582.28,2023-08-26 04:29:43,Lam-Hall,Tech,0
+6f80bc7c-084d-40d6-9188-7bf428734acd,3405.97,2023-12-31 12:48:20,"Cain, Mclean and May",Travel,0
+c12506cf-49b5-4c12-aea6-1bd54c7d5f63,3193.76,2023-01-25 12:10:48,"Ramirez, Coleman and Nelson",Clothing,0
+1274a0a0-5284-44aa-9bf9-1f8206307af5,104.94,2023-04-08 04:44:10,"Welch, Powell and Scott",Food,0
+afcbb825-c128-40cf-b3e1-40395a253e25,2098.88,2023-09-11 17:34:56,Keith-Luna,Clothing,0
+8c939378-d00c-41ee-982c-8882058c941b,2106.06,2023-09-14 07:39:31,"Taylor, Shepard and Ross",Food,0
+17bc484a-f8c5-404e-ac3b-49904adc0dc8,3668.87,2023-07-27 16:14:59,Stone and Sons,Travel,0
+5d5ae8b1-7d89-4b4b-b2ae-b86368cfd006,2265.55,2023-12-19 10:32:26,"Morgan, Williams and Saunders",Health,0
+18a028b5-3309-4fe7-9cb3-8e7bc5d42646,2214.4,2023-06-01 01:48:54,Coffey-Smith,Travel,0
+5e9e7871-6ccb-410c-b69d-a4e9b36c3094,1829.24,2023-05-30 20:53:09,"Bradley, Vang and May",Food,0
+eb2c7c16-2878-4b74-bdc3-7ee087a34a24,2131.07,2023-06-06 04:42:42,Thomas Ltd,Food,0
+4d7c2127-f992-4581-99fa-3f583e8eb25a,2935.63,2023-04-17 01:31:50,Kelly-Lee,Travel,0
+35371362-05d4-467c-b9ed-da9167f7fe1c,104.2,2023-07-16 09:53:26,"Obrien, Gray and Clark",Tech,1
+364e7ef0-2158-4542-a008-4275cefa779d,3144.89,2023-03-08 09:50:09,Rivers-Marks,Clothing,0
+86fbf396-489e-4a0d-b23a-7383080473e7,3778.06,2023-06-07 01:15:56,"Rhodes, Chase and Duarte",Clothing,0
+f937f979-8134-444c-af31-a25b0577b18c,973.37,2023-09-30 16:43:21,"Baldwin, Kim and Smith",Clothing,0
+d9ca844a-c935-4c04-be45-41ebe342f0fd,4356.93,2023-06-06 21:08:47,Johnson Inc,Food,0
+3d1e8782-cb7e-41b7-baf4-f3eef0c52b04,3319.32,2023-01-14 10:45:08,"Roy, Kelly and Cooper",Health,0
+e1603a13-4109-44ac-84e9-888ce4840b03,281.56,2023-07-17 08:27:39,Brock Inc,Food,0
+98fca07b-2cc4-4feb-8bb9-d39275c86546,2912.64,2023-12-10 14:38:28,Baird LLC,Food,0
+7c30e401-4a1c-4f09-8736-2c0c56767cf7,2799.4,2023-05-13 20:39:35,Barajas LLC,Health,0
+921a9bc3-ecbe-41c7-9b69-b3d38c646355,4058.24,2023-01-13 06:18:35,Kim Ltd,Tech,0
+97f71100-be26-46c6-8fdd-0216d8301f0c,151.33,2023-06-02 01:16:37,Reyes Inc,Clothing,0
+b53a3f56-df3b-406e-8eb3-138c721b213f,2649.28,2023-05-13 19:18:42,Smith-Obrien,Clothing,0
+ea9adb85-2787-4131-acec-62da5de77a7c,2308.35,2023-10-13 09:06:01,Hill Inc,Clothing,0
+8212d00e-2bcc-45e6-a394-99287bfbaf7e,3876.29,2023-02-18 09:29:38,"Rivera, Mueller and George",Food,0
+dc19b8c6-7718-4247-a3d7-0a1f00b0678b,2411.47,2023-04-04 17:43:56,"Washington, Espinoza and Ray",Food,0
+ce73dbb3-d66a-4507-b21a-470276baa8fe,1728.95,2023-07-19 12:55:24,Thomas-Davis,Clothing,0
+5e44968c-f301-48fe-967b-b344c2f081f4,2583.6,2023-10-30 05:19:07,"Harrison, Ramirez and Watson",Clothing,0
+747ba5ea-2064-4447-a216-441140c84731,1894.1,2023-07-07 04:25:00,Ross Group,Tech,0
+7b13bea8-010b-4585-bf59-b2562b78de67,1694.14,2023-01-23 18:50:21,Acosta-Webster,Food,0
+697c54d1-1d11-44ce-ad33-e23756d31f29,147.36,2023-03-09 21:09:11,James PLC,Food,0
+3a2f54a2-eb66-4c2f-8099-96799ae1ea2e,2382.83,2023-11-14 16:16:28,"Robinson, Benson and Boyd",Tech,0
+a356a144-3f6f-440c-82bb-1c8a2c552f69,2638.75,2023-12-03 20:12:04,Rivera Ltd,Travel,0
+f5af043f-0a56-4d15-8714-cbcaaa86eb0a,8.13,2023-07-23 08:35:33,Beck-Jenkins,Travel,0
+23fe6274-8a4f-4fa9-b024-38878e559ced,3049.14,2023-05-03 09:45:51,Pierce-Munoz,Travel,0
+b86674d9-b6f1-4a11-8d4d-cb19a2896a20,4584.01,2023-09-19 03:32:31,"Wells, Johnson and Baker",Travel,0
+75914ae3-95d6-4b2b-9350-2e008f562cc6,4445.9,2023-08-10 21:09:19,Crosby-Bell,Food,0
+754bebe4-49fc-4802-b16a-867f7d1e7553,186.49,2023-11-15 04:36:27,"West, Powers and Carlson",Clothing,0
+63589d90-a005-4cbc-a89f-e6fc488b7ba5,3848.56,2023-07-09 22:03:45,Kennedy-Combs,Health,0
+a31b6bdf-b831-48d7-a9fd-f6b36d22a2a4,1320.81,2023-07-23 06:20:25,"Mathis, Walters and Henderson",Food,0
+83976a9d-d1f7-400a-a248-e6e2bc2b70c1,2706.63,2023-03-21 03:19:44,Wade and Sons,Tech,0
+b910f73a-e34c-45df-92ed-fabcc2403061,4027.78,2023-11-07 23:35:22,Gardner Inc,Health,0
+937ec933-5e5a-49e7-9fac-5214e1505825,4692.33,2023-11-26 07:01:38,Johnson-Thomas,Clothing,0
+792b845a-5978-42c5-aed5-7e323446c040,1435.36,2023-05-08 12:45:14,Murphy-Guzman,Clothing,0
+a113de6f-ba7f-4337-a56c-77f22fbc8992,642.17,2023-04-18 02:43:40,"Henry, Harris and Blake",Tech,0
+d696f95d-6446-4ea1-8602-27fbfaa9ca7f,895.85,2023-04-02 22:12:45,Thomas Ltd,Travel,0
+ca10e75d-8383-492b-b15f-d05abac20198,4754.73,2023-01-05 00:06:00,Riley-Prince,Food,0
+e7f76063-2042-4b0c-b8aa-02707de50194,3596.3,2023-04-04 03:34:06,Pena-Hansen,Food,0
+46478684-688e-433a-97a0-8a0cf76fa1ac,942.87,2023-07-13 12:48:16,"Singh, Ryan and Perez",Travel,0
+36ffdfd8-ca5a-4d16-a08e-35ef4023efa7,2710.18,2023-10-30 21:31:57,"Allen, Moreno and Hammond",Health,0
+14abe9f6-d41f-4b7e-a678-1e05bafdf1e7,4649.87,2023-12-19 21:14:47,Cooper Ltd,Food,0
+0e101d7d-0eeb-481c-9b91-0cdac7123391,4292.07,2023-04-24 08:48:01,"Vance, Blanchard and Hensley",Travel,0
+c7fc2158-0a28-4876-ba75-786f20bd013d,3818.0,2023-03-11 16:47:10,Moran-Rivera,Food,0
+2d55a072-4e3d-4390-998b-e4df6588f641,471.26,2023-10-03 13:49:19,Bird-Green,Travel,0
+4546b6e2-b2dc-4ae7-b5fc-302d7460ec6c,3697.75,2023-03-04 03:30:48,Smith PLC,Tech,1
+a41be1ec-c56d-44f3-a857-74961d298044,1137.1,2023-11-09 13:02:08,Vasquez-Mcneil,Food,0
+5403ec85-f07d-4358-bc7f-22ccc97cada6,1113.68,2023-07-04 17:25:25,Sheppard-Mercer,Food,0
+d7f074e7-b7f6-4ce4-8f37-9af355616ee2,2055.48,2023-05-26 12:19:59,"Brown, Dean and Johnson",Travel,0
+5f5a1f2a-0061-4e7b-9635-980dbc723753,1903.07,2023-08-31 23:58:54,"Molina, Daniels and Romero",Travel,0
+c66e00b4-bbaf-4afa-85b2-9ad33a19bb8c,1032.4,2023-08-23 19:34:39,Smith Ltd,Clothing,1
+b3b2aa99-457f-4312-ac99-a6561b116756,821.86,2023-05-08 05:10:24,Moore-Flores,Clothing,0
+ea5f5990-3e1c-4681-89d2-f1a2a454cd4d,2025.14,2023-10-30 14:09:54,Wagner-Davis,Food,0
+5df00ccb-258d-44d9-8454-e5f0dfc2a8a7,3974.6,2023-07-20 21:28:54,Henry Ltd,Travel,0
+76542390-93e5-4b2c-ab42-9e160177fa7b,3201.29,2023-11-07 04:07:15,"Harper, Bullock and Hampton",Health,0
+3ffb9a3e-22da-451e-a300-4990183d3e76,3233.82,2023-12-27 03:44:37,Arroyo-Alexander,Health,0
+3dba9042-af0e-40ca-b14f-b4f7e295f625,2916.42,2023-10-28 07:09:19,Obrien-Owens,Health,0
+3844ec28-1603-423b-916c-2641ec5ab366,2465.98,2023-02-20 07:39:48,Cross-Davis,Food,0
+e8d9abb8-df1c-492b-a797-f2dce3f762e3,2708.65,2023-09-26 11:08:41,Dunn-Obrien,Clothing,0
+402db56f-9a4e-4496-87d4-a8ce19bb09cb,4078.45,2023-06-05 13:10:17,Garcia Ltd,Health,0
+b49c2422-e6a1-4fef-9bc1-e1e59fa16d79,3613.52,2023-07-19 10:50:43,Perry-Nguyen,Tech,0
+5d68a10c-9f4b-4631-8466-19a4754e47c3,4648.68,2023-11-12 19:01:05,Collins-Mason,Clothing,0
+32151108-729d-4558-899d-d4ece7ded7e1,3814.36,2023-02-18 06:18:35,Cross Ltd,Food,0
+00434f79-3c85-41b0-bef2-b57cab230608,803.69,2023-07-07 13:14:20,"Morris, Weber and Gonzales",Health,0
+f9018bfe-b842-42ad-bf47-755168722beb,2118.81,2023-07-26 10:16:33,Reed-Johnson,Tech,0
+02e71bf8-10b6-4a8c-90c0-947eb405c825,2704.7,2023-03-11 05:25:43,Cook Group,Clothing,0
+a4aa0e26-15e4-49bb-827e-b1c689dd1956,3829.78,2023-11-07 03:30:33,Hicks LLC,Food,0
+380192b9-8041-4438-a259-200bd5873f7b,2823.62,2023-03-11 14:38:26,Callahan Group,Food,0
+2fe9e0a1-c98f-40de-a37b-06f02303e597,2784.2,2023-05-18 14:38:49,"Manning, Norton and Dixon",Travel,0
+1e98c9ba-906f-4d66-851b-b27a150439b9,684.76,2023-12-04 23:03:27,Thomas PLC,Travel,0
+9801e0df-395d-4171-8a9a-29ebf86d9b18,837.66,2023-03-10 12:18:29,Logan Group,Health,0
+acbf41f2-1204-4e44-818a-81e7d3ac5367,4646.26,2023-06-07 13:41:58,Marshall LLC,Tech,0
+b4b75c55-d0a1-4044-b4ba-7d838619b927,1712.71,2023-09-30 19:18:58,"Thompson, Callahan and Stewart",Food,0
+16c4ae73-c37d-40f4-b9ee-85c3356e49af,2102.2,2023-07-12 10:00:28,Anderson-Yang,Health,0
+39e6914e-cae7-471c-b997-2a31be1f8ccd,4452.21,2023-04-01 21:12:03,"Garcia, Buckley and Lee",Travel,0
+7a546bf7-e14a-443a-93d7-9282739f1123,382.42,2023-10-31 06:57:44,Myers-Flynn,Clothing,0
+b2b6f9d9-ff81-435c-8f79-a014d67e5201,4217.76,2023-04-07 06:44:31,Davis-Harding,Food,0
+8e557f2f-2ced-4408-8fe3-47969212e93a,2221.24,2023-11-02 22:28:53,Alvarado Group,Health,0
+55043930-a141-4af4-9052-6a241a9c7c31,2426.74,2023-07-20 06:58:42,Fox-Adkins,Food,0
+0cdaa75d-f930-4f04-a85c-9542c57eca0f,3091.92,2023-04-09 06:52:32,"Cox, Sanchez and Davidson",Clothing,0
+3c1d92b7-8ea1-43f0-bc33-8a4eeb31e6a7,482.53,2023-09-24 06:10:25,Newman Ltd,Clothing,0
+aa4a738a-a2d5-4d37-85a7-d8ba24c850c7,534.63,2023-06-10 19:37:57,"Moyer, Crosby and Lewis",Tech,0
+2cd956b2-9bbe-4790-90fc-b46b91cecca7,60.55,2023-12-16 21:03:42,"Skinner, Reese and Jackson",Clothing,0
+8154d484-62ff-4c99-8bef-579596d75635,517.22,2023-05-02 20:08:40,"Hurley, Turner and Holt",Tech,0
+7161974e-094f-4575-b845-f75e5f5cf731,2442.41,2023-08-02 21:12:56,"Montoya, Valenzuela and Haynes",Tech,0
+6dcb22b4-41cb-49b0-b359-f1d91116ef8a,4627.73,2023-11-18 15:06:14,"Wagner, Rivera and Arnold",Clothing,0
+67022b80-7789-4aef-9b01-2e5a682ddd70,3596.53,2023-05-07 16:23:47,Stevenson-Carpenter,Health,0
+0e6a43da-1bac-400e-9269-3bc186b2ac6c,4765.71,2023-10-04 20:56:40,Johnson-Dixon,Clothing,0
+0ac8f282-8dc1-418d-9916-82bc80741a17,1298.2,2023-09-21 09:33:29,Miller and Sons,Food,0
+d8d0f844-979d-4149-995e-80a047551bc9,3783.25,2023-12-22 08:58:40,Fletcher-Ross,Clothing,0
+d957e254-8fa4-4a67-ad49-e578cb17cc4b,3090.95,2023-03-11 10:55:39,"Long, Saunders and Lucero",Travel,1
+6d6f658d-4f93-462a-952c-f45c04fa1bde,1022.94,2023-01-13 15:58:45,"West, Harris and Jordan",Travel,0
+599e193e-118d-4d9d-aaca-21907a5185d7,1249.0,2023-11-29 04:18:34,"Cruz, Cohen and Brown",Health,0
+07aa9ae4-8366-4ac5-8608-56aff5f34ed1,292.06,2023-05-05 15:08:57,"Contreras, Rodriguez and Hancock",Health,1
+cf5d2bff-8709-4490-be1e-28336703190b,480.63,2023-07-24 04:41:12,Wise and Sons,Tech,0
+8dc0f72a-4351-4bcf-952a-f289da51dd13,1964.14,2023-12-31 20:33:55,Butler-Ward,Travel,0
+04e5aa0d-9404-4852-82d8-772d4e0992cf,2092.5,2023-09-03 20:01:55,Blair-Hernandez,Clothing,0
+fd79a1ce-cccf-44c3-a8cc-f09bf983e38a,3651.3,2023-12-19 12:04:49,"White, Lopez and Freeman",Clothing,0
+970e74e4-6c89-48bd-8b69-6964873c88ad,3257.67,2023-02-21 22:29:08,Powell-Phillips,Food,0
+27c44f1f-8d4a-4db5-87f1-f9dd30b11208,3335.99,2023-03-09 13:42:54,Johnson-Ramirez,Travel,0
+73fc64bf-9b57-4f1d-aecb-0e523a919ccb,3635.81,2023-06-21 02:44:57,Green LLC,Food,0
+4bfa7979-3b90-4e41-b421-ddb7a596d300,4732.9,2023-10-19 06:46:16,Hernandez-Scott,Health,0
+ded6300a-02ff-4c55-b338-304cb6be3065,1217.9,2023-05-29 22:56:26,George-Howell,Clothing,0
+14fb8351-fc9c-407b-8301-05a7901a2018,4063.57,2023-09-01 23:10:09,Obrien-Freeman,Clothing,0
+aa07dafd-670a-4ac6-b453-a656feb6e2b9,12.86,2023-07-06 18:47:16,Rios-Bishop,Clothing,0
+2d2ce098-57d0-43fe-aff3-df7f3f0f408c,4248.21,2023-10-21 18:26:44,"Ho, Garrison and Thompson",Travel,0
+f782b016-dae6-4149-85d2-dcd9a5ce4178,3928.6,2023-12-16 22:44:42,Foster Group,Travel,0
+ed5a9ca4-5c1a-48b0-a3cd-3929e1ac3b5a,264.24,2023-03-06 15:16:05,Harper Inc,Health,0
+1ade4629-fe9c-48e1-a94b-16f1017968d8,4385.86,2023-08-22 07:20:58,Campbell PLC,Clothing,0
+ae15391c-d4f7-44ac-a275-c4646a377e8d,1055.81,2023-11-20 16:22:39,Gibson-Jackson,Travel,0
+a208ddd8-52c8-4cbf-bd5f-95e7bc5b61ec,1519.89,2023-03-10 18:48:57,Tran PLC,Health,0
+767039c6-5c87-41ed-8253-be5919e2f616,1550.94,2023-10-11 07:59:22,Wilson-West,Travel,0
+50b8f54b-2a6e-4dcb-8c8e-d2b8a7fba222,401.27,2023-01-17 22:45:00,Weaver PLC,Food,0
+9dacc23c-4c82-4718-9ac7-bbc7323311ed,829.55,2023-10-07 13:12:01,Smith-Baldwin,Clothing,0
+a3b5131d-9475-4b90-ba9c-41032ad10a30,1698.63,2023-11-18 15:54:17,Gonzalez PLC,Tech,0
+c1c7dcec-2d4f-4a81-92bf-a6561aef7893,4707.49,2023-04-09 02:11:42,Martinez-Moran,Health,0
+62ac9202-12c3-46df-a34e-1119eccad61a,4806.75,2023-12-29 17:35:27,Harrison-Taylor,Tech,0
+f7cc26f4-21a3-4a82-83e0-6566d9caf425,3051.43,2023-02-07 15:17:34,"Gilbert, Reed and Bell",Travel,0
+1977f78e-2076-4b49-be9d-26ce1ef90cd8,4624.69,2023-09-11 01:46:09,"Hall, Hill and Johnson",Tech,0
+1d975df3-fd73-43d4-b923-97450b2addcf,1411.33,2023-07-21 13:59:43,"Peters, Cruz and Mercado",Health,0
+c8feb4a3-4db3-4ba8-a011-7700682683f3,234.17,2023-12-03 18:18:33,Dominguez-Perez,Tech,0
+cc14aa22-5650-4529-8701-5ddf16358dc5,3220.51,2023-03-25 01:53:28,Rodriguez PLC,Tech,0
+1854f9ff-7f69-4fcc-a1ee-e73593d13589,771.42,2023-05-03 06:19:42,Carrillo-Roberts,Travel,0
+09cf8cb2-ad33-413a-9dd9-a98c8da197c0,3220.2,2023-03-09 16:33:21,Decker-Baker,Health,0
+0642b49a-3642-43dd-b4f8-137aca452920,2413.7,2023-09-10 12:45:19,"Marshall, Molina and Robertson",Tech,0
+f4e8970e-616c-4e9d-9da1-4d72f92dbac4,869.63,2023-01-02 02:35:33,"Rhodes, Crosby and Lee",Health,0
+e6f3e72a-217f-4e20-9f57-2301bc732128,2940.73,2023-03-22 06:37:43,Shaw Inc,Health,0
+6d36f213-7e1e-46e2-8aa0-958d219ae3fd,2458.9,2023-02-07 01:11:52,Baker Inc,Clothing,0
+6fa5349b-e957-428e-a5ce-47629bee15ad,4619.42,2023-01-07 11:34:03,Miller-Byrd,Tech,0
+4be95840-c451-4479-8c92-1fc10dcfd30b,4651.1,2023-08-21 08:23:27,Hansen-Green,Clothing,0
+68e39413-f96d-49b0-82b3-21ce8e34f662,3478.71,2023-10-20 04:11:33,"Hughes, Anthony and Bray",Tech,0
+65ed2c88-baa5-4136-ace3-c49e3bca711e,1679.65,2023-09-29 21:21:32,Smith PLC,Clothing,0
+608193c3-7d9e-45cd-817d-f1bd6f54e6ad,3622.77,2023-02-05 04:51:13,"Greene, Herrera and Clayton",Tech,0
+93fb6bd2-5c26-49f2-8dac-0c284b26cbbc,1184.17,2023-09-05 17:19:36,Murphy and Sons,Health,0
+6a47a608-9350-49c5-84da-5c8f8ce1544c,2931.29,2023-12-22 21:26:44,Sanders PLC,Tech,0
+99966c3b-19d4-40a6-acb6-1e90b627e5ce,4833.92,2023-06-21 02:30:37,"Johnson, Harris and Scott",Travel,0
+7138e83a-3e96-445a-8325-e02ad1f390e7,4401.9,2023-09-01 15:22:12,Brock-Barrett,Tech,0
+0ddf59de-ea62-4803-a22b-99be29ededaf,4038.37,2023-10-23 23:40:20,"Holmes, Mason and Stevens",Tech,0
+aa51e979-4428-4286-8bfd-d6a7a658c05a,3184.65,2023-10-16 17:13:25,Murphy-Tucker,Health,0
+343c2f8e-8e01-4a37-b006-06d265072cd2,1807.76,2023-07-19 04:10:32,"Davis, Hanson and Whitney",Clothing,0
+cec6c465-b292-4e36-b643-ab6938453275,1061.94,2023-12-06 06:27:09,Wright-Russell,Clothing,0
+1a4829cf-c7c8-44fc-95eb-9d6be33ea031,3546.43,2023-06-17 05:11:12,"Fernandez, Gonzalez and Young",Travel,0
+a16d1ed4-0d89-4fe5-be58-902333780c66,4571.58,2023-08-14 14:40:07,"Rivera, Gonzales and Barker",Clothing,0
+a5e08f39-e874-4ac9-adba-789363886e72,3729.5,2023-01-18 14:49:38,Medina-Fernandez,Food,0
+cb8c6ecb-de30-4613-b9dc-54a382711324,467.52,2023-11-28 10:18:50,"Sutton, Dunn and Pierce",Travel,0
+513e402c-caa2-42b9-b2f7-feeba8521089,703.87,2023-10-19 14:38:08,"Warren, Downs and Miller",Tech,0
+bf05b02e-8fc4-4dd3-ba17-cc24b3f86bb3,444.32,2023-03-28 21:57:24,Acevedo-Walker,Food,0
+29dbaba8-eb1d-4d41-ac24-4fec8aeab6db,86.87,2023-08-27 04:11:38,"Malone, Green and Henderson",Tech,0
+8f47f96e-ec1b-4a5a-be06-90b08cfac717,4958.34,2023-02-14 18:45:46,"Reid, Baker and Allen",Travel,0
+c3d2fe0f-c891-4223-8808-a670db31fc50,2137.15,2023-02-21 02:14:20,"Gonzalez, Frey and Hudson",Health,0
+cde9250d-4015-4269-a5cb-526c46caf0bf,3041.7,2023-02-22 06:51:25,Dunn and Sons,Tech,0
+bcff638e-88b9-4728-910e-22a7f19da19e,2504.69,2023-04-06 03:55:09,"Alexander, Johnson and Anderson",Food,0
+c25eacc9-dcba-49af-96fb-99139e4589d4,1049.3,2023-05-15 06:22:51,Guerra-Clark,Clothing,0
+6835a0be-9d93-4a63-974f-5f9d9388d454,4651.84,2023-06-02 16:40:15,"Clark, Mckenzie and Thompson",Food,1
+fd467c9d-1591-4cb3-85e5-131241625b9b,2271.3,2023-01-15 23:43:27,Flores PLC,Health,0
+97c3ff32-9ca6-4465-8803-e900c5d31aa4,1794.02,2023-05-25 21:33:04,"White, Warner and Erickson",Health,0
+6ac75f2b-9a67-4659-9289-f739e9b40e84,706.69,2023-07-06 11:56:37,Shaffer-Steele,Health,0
+9f62a344-fbd1-46c1-baba-6e9d91fd548c,1925.82,2023-01-06 03:20:55,Mcgee-Martin,Tech,0
+510b0359-90ba-497e-856a-e23b58972c6f,1207.07,2023-09-11 01:06:38,"Osborne, Owens and Palmer",Clothing,0
+cbeea2df-e239-4e40-a77c-06bfd27b18e7,3997.17,2023-02-26 21:40:49,Larson-Hoffman,Tech,0
+c71ef5b2-eaa9-4898-ab8e-ec6300974384,969.51,2023-08-27 00:40:08,"Cross, Richards and Beasley",Tech,0
+769acaf6-6329-462c-923f-4882aa13c584,3066.43,2023-12-08 13:42:26,"Beasley, Cruz and Vance",Tech,0
+eab9b47f-62f2-433a-b878-37705f8770df,3341.19,2023-05-23 00:11:05,"Weber, Johnson and Morris",Travel,0
+9aae340b-0911-4fd9-b546-a65c46513319,2729.9,2023-06-12 09:15:02,"Brown, Anderson and Lopez",Travel,0
+f28a653e-84ba-4739-8f68-22d296795056,2558.57,2023-10-14 04:35:38,"Pierce, Moore and Martin",Health,0
+26d60180-f71e-4a32-b492-048ff7aabcf7,1673.14,2023-05-20 19:56:49,Thomas-Morrow,Food,0
+ccef99ae-6e2e-45d4-92ba-127805db4666,3715.43,2023-04-26 17:53:23,Sullivan-Flores,Tech,1
+e66f483c-ceb6-4815-a715-94bc89d33200,606.22,2023-01-25 05:29:31,Hicks and Sons,Food,0
+d8c7ba38-85b1-4741-be7f-fc341202a7b4,3087.43,2023-04-05 03:23:46,Randolph PLC,Clothing,0
+0adc1d5d-8da9-4f03-9dc4-d6b8a15751de,3388.22,2023-05-06 08:08:57,"Mosley, Cunningham and Spencer",Clothing,0
+7bbca6ab-2e96-43ea-8bd7-7ea55a8bdf64,4868.63,2023-09-09 07:50:00,Hernandez Ltd,Tech,0
+34ce0908-13eb-4286-8113-814a375f43d5,3756.87,2023-02-06 17:27:22,"Chavez, Hanson and Harrison",Food,0
+353beece-10d1-4f49-8546-da4aa3a41be5,649.35,2023-11-08 13:14:17,Moyer-Morales,Travel,0
+b10533fb-31e1-4e4f-92fc-7697d5e07870,3796.35,2023-11-11 10:43:43,"Molina, Velazquez and Jenkins",Clothing,0
+dedd7790-eed3-457d-9366-71ac4b01a8b3,2733.08,2023-01-31 18:16:47,Barry PLC,Tech,0
+b5154115-d842-43f0-b533-65b7a939306d,2105.95,2023-02-11 04:26:21,Zimmerman-Coffey,Travel,0
+81e8398e-e7b7-4a4d-8937-35e61b0adc46,4476.24,2023-04-01 19:21:34,"King, Lewis and Walker",Travel,0
+7695836f-51b4-417f-80fc-4cf78a6ed5e2,2337.58,2023-12-05 03:23:40,Lucas PLC,Clothing,0
+6b6951d0-c681-4dd3-a016-be43feaf5812,2408.2,2023-10-16 14:06:08,Young Group,Clothing,0
+fa3aa233-6b79-45bc-9c21-b73533af89fe,987.7,2023-01-09 08:49:44,"Bridges, Riley and Gonzalez",Health,0
+fa41a69d-ab08-48e0-a42d-e9f4e538fb73,4029.56,2023-04-12 14:12:17,"Carter, Ibarra and Haney",Tech,0
+949ef520-4c47-439e-9493-f174ea04d24b,3007.16,2023-08-19 06:36:28,Johnson and Sons,Travel,0
+b39194d0-88e6-4024-b9ba-1f77d47dbba0,4386.53,2023-06-02 03:54:42,Martinez-Wade,Tech,0
+f91d309f-fa42-4a05-ba7b-c24e6f5fea20,1559.66,2023-09-30 15:18:16,Reid Ltd,Travel,0
+6ac709ad-cb5e-4d52-a378-9c8cf5310372,3147.74,2023-11-09 09:40:55,"Logan, Thomas and Colon",Food,0
+0bcdf77d-5ef7-4ea5-a978-4d9be8c04bc5,1166.11,2023-11-26 11:29:06,"Craig, Decker and Hickman",Tech,0
+424cef10-9577-4f62-8f0d-01037bf02836,731.46,2023-06-14 17:00:57,Sharp-Williamson,Tech,0
+2859bc8b-8a29-40d4-886b-aa0a3ea15df2,862.4,2023-10-24 17:04:20,"Owens, Kemp and Osborne",Health,0
+1ff8f6fe-7985-4fe4-ae38-4b977d69c376,2926.42,2023-01-23 08:48:15,"Arnold, Rivers and Kerr",Tech,0
+813c3e9b-a222-49d4-a3a2-fc73c0deaeea,4352.8,2023-08-07 13:51:09,"Fisher, Lester and Fritz",Travel,0
+6f95c5a6-d657-46f8-9971-0363f9203741,4257.28,2023-02-27 14:56:38,Avila-Stewart,Health,0
+096e2536-99b1-4c69-877a-ff52a35e4a7a,2853.2,2023-06-13 02:46:07,Rodriguez-Murphy,Clothing,0
+7610e68b-3f5b-4ff4-945b-641d50f4eb34,4409.47,2023-12-30 18:33:45,"Mitchell, Butler and Thomas",Travel,0
+1e34766f-792c-4493-bd2a-15d90eb6f141,3584.98,2023-10-17 17:28:32,"Norman, Bradford and Ferguson",Tech,0
+7f8fd09d-7154-4afa-a169-8306402776d9,270.13,2023-10-16 18:06:33,King Group,Health,0
+575a431b-bccf-4214-8fe9-78bad13ec6e5,3939.25,2023-03-16 09:46:25,Glass-Hall,Travel,0
+4a059549-a4aa-4b58-a819-093811fa414b,4123.57,2023-05-21 05:11:39,Tucker-Barnes,Clothing,0
+f4b544f0-0014-44bf-9f03-4e2e348c019e,2428.8,2023-08-13 13:17:06,"Torres, Scott and Phillips",Tech,0
+fdf72a85-f9f9-4756-87c9-bde688fbeff9,2277.05,2023-05-08 18:51:27,"Williams, Vega and Barker",Food,1
+a82e43ca-7f6d-4d8e-92a2-2051bc06074d,3973.71,2023-03-02 15:54:16,Byrd-Sparks,Health,0
+e4e3fa73-b3a6-43b2-a3b8-a0bc66ea8659,3000.36,2023-12-07 07:19:46,French and Sons,Health,0
+81af98f1-3e7c-49e7-b4f5-8ec3336c2426,867.76,2023-07-02 07:43:21,Duran-Barr,Travel,0
+7a404a61-cff1-4b6a-8204-8244342e40dc,1379.11,2023-06-23 20:11:00,"Hunter, Dawson and Lowe",Clothing,0
+60a3885d-0400-4624-a926-8f41a2ce003b,2284.01,2023-11-10 00:00:43,Miller-Fields,Clothing,0
+728f1024-e56f-4cc8-964a-06d894c70d82,841.18,2023-11-23 18:24:59,"Christian, Anderson and Edwards",Health,0
+ef556b4c-d4c2-43b8-9dde-2c93290e23b2,4420.99,2023-06-28 23:53:28,Gates Group,Health,0
+1bb1e6e1-5a34-4921-aa45-3997a4895006,69.92,2023-11-17 04:38:09,Schmidt-Miller,Food,0
+df1c195b-6612-44c0-ba3b-74840c360fe2,2622.38,2023-06-17 14:19:46,"Smith, Martin and Bates",Health,0
+36c44cd6-2219-4474-935b-319aed2221c7,2819.05,2023-06-26 04:35:13,Perez-Simmons,Clothing,0
+9fc823d7-4fc9-4fb7-a312-b418715f1e81,1325.58,2023-10-27 16:07:39,"Frazier, Casey and Montgomery",Health,1
+0c6ae8a5-739b-4d5e-aa7e-2532843f20a2,1263.13,2023-09-16 06:00:46,"Gibson, Waller and Collins",Health,0
+f49bd1b6-4a2b-4ba6-8ce9-8970ae715d5f,3016.16,2023-04-23 15:50:28,"Diaz, Jenkins and Gonzalez",Health,0
+403f7cde-d12a-4d57-bcab-69a2a8a0e133,1482.57,2023-12-26 05:31:43,"Burton, Ross and Chung",Travel,0
+25d9d10a-3ac9-4674-bcba-c0f3b0e41f66,2802.63,2023-07-10 00:41:35,Butler LLC,Food,0
+1f7e264e-4e57-4e4e-8b6c-8c9834dfe4d8,3434.78,2023-07-22 19:24:29,"Sanchez, Gomez and Combs",Health,0
+e00a603a-1434-49a4-9c1c-c215c9691c2f,2184.88,2023-04-20 17:48:46,Sawyer Group,Clothing,0
+52098b22-73b3-490a-a9af-130f8cb1ba86,3339.82,2023-02-11 00:39:23,"Lopez, Cannon and Baker",Travel,0
+d103a9cb-0158-4fc1-a54b-ce188812fd9a,4.0,2023-09-13 07:04:01,"George, Marshall and Williams",Health,0
+9bace7b5-6224-4516-8faf-117bb4a182a0,2048.27,2023-02-11 12:27:34,Roberts-Murillo,Clothing,0
+ee1a8979-7e85-4bcd-8a39-5749780cb744,560.53,2023-05-23 16:18:46,Owens Inc,Tech,0
+f74af388-63ec-484d-8387-1e6282d8d3b2,3575.63,2023-11-11 03:46:13,Austin PLC,Tech,0
+37c1ac74-73f4-4dc8-aedc-4ff98cfeb6d9,158.3,2023-02-18 00:34:36,Flores-Nguyen,Tech,0
+16411644-db02-4c73-8101-0c1d21192501,2354.85,2023-05-18 17:27:12,Santos-Brown,Food,0
+afb5b8f2-fc76-42dd-89b9-0b6c21b197b4,3018.37,2023-05-06 10:21:43,Perry Inc,Tech,0
+cfbeb2a7-eb6a-4f59-a0e4-1f9fa6630a76,3226.91,2023-12-04 22:36:23,"Allen, Armstrong and Porter",Clothing,0
+6619d24c-b92b-4504-92b6-3637d15f6362,262.6,2023-10-05 21:36:18,"Sanchez, Harrington and Smith",Health,0
+27e347b1-4d89-4a27-bd7c-6d25d01a8929,3829.83,2023-07-19 12:28:17,Smith Inc,Clothing,0
+59ce4928-d6c3-4893-9b18-a7e2139b6134,1084.67,2023-10-30 06:25:34,Stanley and Sons,Tech,0
+66b635db-9809-4685-ae82-5eead8f7a625,3797.04,2023-01-30 16:36:36,Wilcox-Case,Travel,0
+ec0ff72e-2094-4b8d-b107-afe98cb034a2,4901.24,2023-04-10 15:17:08,"Morgan, Phelps and Ramirez",Clothing,0
+087d4f8e-e596-41cd-9b9c-c20ba3bad5ec,674.76,2023-04-03 06:16:14,Webb Inc,Travel,0
+baeb62d6-7c30-4853-92e4-2444c17093d2,3835.64,2023-04-02 19:26:30,Adams LLC,Health,0
+76c4cc6a-97f3-4e16-ad85-0ddff7dffc69,2460.65,2023-11-14 14:30:54,Peterson Group,Clothing,1
+8d4fcce1-2f33-45ac-af38-ee7e95887437,4009.82,2023-06-29 23:37:13,Valentine-Dickerson,Travel,0
+3aa640b8-9809-42b0-9715-a885eb4b6502,3888.82,2023-11-01 10:18:17,"Campbell, Carpenter and Mccormick",Clothing,0
+1a555575-7cf4-4ec2-9b31-2a1b92986543,4677.37,2023-11-06 03:59:58,Miller-Strickland,Tech,0
+0a6bb11d-142a-4b6f-bb3d-658180d03a28,856.09,2023-06-02 05:32:01,Mullen-Galvan,Tech,0
+0cfb7fd7-cdf2-43fd-832a-30a9bcbf82b0,3953.61,2023-06-18 11:01:07,"Lewis, Bowen and Calderon",Clothing,0
+a4be7e50-0d46-49dd-83ca-004bf95f6264,386.86,2023-01-04 21:38:55,"Johnson, Savage and Vazquez",Food,0
+55b8ad6a-98b8-457b-84f7-55faec0b1c65,3823.5,2023-12-11 07:00:46,"Baldwin, Hayes and Gross",Tech,0
+22f6c7ed-76c2-4363-af8b-782df7a58917,72.03,2023-10-25 06:09:20,Smith-Lewis,Tech,0
+dc250cc8-8746-4ae7-bad6-20186420c754,4003.18,2023-11-16 02:03:08,Richards-Brown,Tech,0
+85332166-3ecc-431d-b09d-92b05c86c829,1090.52,2023-02-01 23:58:02,Howell-Davis,Travel,0
+61d957a9-f17e-46b5-8580-516da4f00dd8,3532.26,2023-06-30 10:57:49,"Sutton, Rivas and Wright",Health,0
+0dc45f53-1b9e-412b-ab63-a1f11864f035,4418.0,2023-11-03 06:50:06,Mason Inc,Health,0
+ae9e6bbd-bea6-4591-90a5-ab3253c5df1a,2790.63,2023-10-29 04:33:44,Hamilton Ltd,Food,1
+8a78cbae-aa3f-4e1b-928b-18b9f1742753,4464.61,2023-08-17 07:10:35,Valdez-Flores,Health,0
+df9b3d63-7152-4db5-b4f8-607d561dd8ba,1218.19,2023-08-24 14:36:10,"Bowman, Nelson and Michael",Travel,0
+ad2bf19c-4c37-478c-be10-6cfec1d5bbe8,2461.24,2023-10-10 22:39:59,"Maxwell, Campbell and Zimmerman",Health,0
+60df7a7e-6fb9-49af-b37f-04f35ec9e126,568.75,2023-06-04 10:46:48,"Hamilton, Smith and Scott",Clothing,0
+505cc6c4-ae98-4e50-94e4-11c84d0f8a43,62.65,2023-01-13 04:52:19,"Marquez, Perez and Higgins",Tech,0
+639c8ee2-4a84-463b-8e0d-19280f2ca3b6,2410.6,2023-01-17 21:42:15,Mitchell Inc,Food,0
+05f1d23c-e907-4416-9a93-11ea2166f15d,811.04,2023-09-12 13:16:10,Duffy Ltd,Food,0
+6defcebe-4938-4b87-b169-11d03beab5d9,628.67,2023-11-15 07:38:32,"Ho, Smith and Thomas",Travel,0
+2f3f9553-f26c-415c-8935-daf85a4f626b,100.7,2023-02-16 03:41:48,Roach-Martin,Food,0
+52a81958-3074-4312-bcbf-f0b4f384a1ec,668.44,2023-12-07 18:05:35,Gardner Inc,Travel,0
+208ad3b3-15c2-4091-b1db-8f8ec37fe6d6,4556.06,2023-06-30 11:20:57,Watson-Richardson,Food,0
+91c172e8-7ae5-49f1-b46f-ab52f6f57070,1743.67,2023-01-01 07:18:22,Bradley-Huff,Travel,0
+b9ee6423-74b6-4ee1-8a6e-e75f521bb1b9,4359.98,2023-07-02 13:38:40,Miller-Garcia,Health,0
+57bdc3a4-e9c4-4477-a42f-1e7a7142b8af,20.86,2023-01-02 23:53:47,Smith-Long,Food,0
+f48bc3f6-a31d-4d8c-8934-f5eba0e52010,1679.06,2023-08-24 17:47:33,Johns-Hernandez,Health,0
+4abcfad2-bad0-4653-bd60-5c07adf427ff,4830.02,2023-02-08 17:52:22,Morales Ltd,Tech,0
+49d4d3c0-ad4b-40b0-9a05-47f127a4259b,4225.8,2023-03-14 12:21:26,Frank-Singh,Tech,0
+2d7e473a-4fc8-4c86-93de-d10051d7eb1e,4869.65,2023-02-24 06:31:31,Mata Group,Tech,0
+01a1a8e7-069e-4af4-b415-da62657ce5c4,4674.98,2023-04-23 01:11:56,Roberts-Smith,Health,0
+8b0b6ea0-b1ea-4011-9751-90e75b7fd9af,1177.93,2023-05-17 10:41:45,Fuentes Inc,Food,0
+33a0b9bb-fdb0-4564-9211-68ce29bc9aa2,1434.17,2023-11-26 20:46:02,Horton-Baker,Tech,0
+ab8c3987-da89-4ef9-a9ce-44e44fd4ea7e,1695.7,2023-08-03 13:45:59,Jones and Sons,Tech,0
+18233be3-9271-44b7-8a3f-114282729edb,4623.59,2023-02-16 10:41:03,Church and Sons,Tech,0
+a1b5ba70-c113-4eb7-b0cf-6332a12ff5f8,413.31,2023-11-03 09:08:47,Alexander-Watts,Clothing,0
+f23a6275-c23d-490b-b3d0-8a34a7d7a0fa,1340.54,2023-09-26 00:06:09,"Smith, Nelson and Thomas",Health,0
+97be350e-a402-4b9f-b70c-fc717abf55d0,3.22,2023-07-27 22:16:43,"Carroll, Schultz and Gomez",Travel,0
+e8b1f76d-bec1-4fd5-90b4-7873dade5a89,4184.16,2023-06-20 14:36:24,"Coffey, Johnson and Martinez",Travel,1
+fe253c24-a72b-4f60-963d-fcd5793a6865,1223.16,2023-04-25 12:47:34,"Smith, Valencia and Carter",Food,0
+c49f906d-92f3-4057-9079-ea6af11f1ff9,653.97,2023-10-29 22:35:22,Rice PLC,Food,0
+b3c9b5c8-d188-4df7-ae98-c534df8db0b5,1480.98,2023-01-31 18:16:07,"Lowe, Scott and Beck",Food,0
+ba7fdcf6-4af0-460d-87e7-28f7bdbd4963,3279.39,2023-08-18 23:35:44,"Rogers, West and Dennis",Travel,0
+fa035e98-313b-4747-b356-d4345040b15c,4246.33,2023-07-01 13:15:24,Perez-Lopez,Tech,0
+44461b4b-3036-4fb5-ba8a-3f55d1d0561d,2912.69,2023-06-22 18:12:50,Parker Group,Health,0
+e6bd67ef-5824-42fd-aedb-2cf799243ca0,3340.73,2023-03-22 19:42:23,Clark LLC,Food,0
+8cbcc346-a9eb-4629-9f43-613f6cce0413,3063.94,2023-06-01 02:43:04,Houston-Moore,Food,0
+5ae1cb97-2ae5-43eb-9cad-304b68fd515d,3791.65,2023-10-03 01:57:52,Robinson Group,Travel,0
+d69e6ccc-ba30-4ac4-bd69-d2eb56a8805a,3329.35,2023-09-12 07:55:28,Miller PLC,Food,0
+1336f87d-d818-4c29-8c05-8fb6e6829c41,663.55,2023-11-29 22:09:40,Odom PLC,Food,0
+ac339a61-f0cd-4d18-b5be-30e177ee5ade,486.22,2023-10-26 13:33:14,"Wilson, Gray and Thornton",Travel,0
+63f33c45-2bb3-4a0e-9500-5e3103f787cc,4264.67,2023-11-02 07:10:46,Lopez-Bryant,Clothing,0
+326b6227-7413-4bb5-9cc5-32e596967e3c,220.94,2023-01-17 18:05:52,Simmons LLC,Food,0
+d5ecb449-2170-46bd-ad2c-f4a5c4b99ed8,1740.18,2023-12-28 21:41:07,"Turner, Nielsen and Reynolds",Clothing,0
+68e3ca5c-4f76-47c9-990d-f4c9831aa84a,756.9,2023-09-11 16:27:04,"Lane, Cruz and Underwood",Clothing,0
+0b72607a-1baa-49a7-84a1-ec368909539d,2015.75,2023-07-28 20:54:28,Pitts Group,Travel,1
+28bb801d-71e2-49c6-ad32-9aadbfeb80d6,1617.41,2023-10-01 11:25:55,Mann and Sons,Health,0
+4b3250ed-d725-4e3e-ab18-549455ebc7a4,1250.65,2023-11-06 09:02:05,Graves Ltd,Health,0
+e52ba5bc-72fc-4865-accf-b7ba3ffbf398,3348.19,2023-10-29 19:43:20,Nichols LLC,Clothing,1
+630f65f3-9f3e-415c-8278-e63f0685cf75,636.75,2023-12-14 10:39:25,Johnson-Miller,Tech,0
+b638afb4-9855-4703-a040-651e7277379b,2348.59,2023-06-10 18:56:31,Jackson Ltd,Tech,0
+e02a985f-e588-4f1d-8b9e-bc3937b0d9b5,2263.66,2023-03-22 21:05:16,Elliott LLC,Travel,0
+5bedd3fa-075e-4739-bbaa-853f2cc55583,232.44,2023-11-27 05:43:24,Smith LLC,Tech,0
+fea0cda8-2552-41a3-9ad0-4629ae574d5b,3369.69,2023-04-15 07:36:13,"Curtis, Perez and Ryan",Travel,0
+ddf12275-3a6d-4a94-ac76-62e108f50e0a,435.21,2023-04-26 07:46:40,Monroe-Osborne,Tech,0
+0af4d385-03f3-43b6-99fb-9fba43fdfad6,3809.94,2023-03-12 08:45:14,Smith-Smith,Tech,0
+04e2ef1a-ad9a-47e4-a70b-7e2753de81d9,584.57,2023-11-01 03:14:30,Gray PLC,Clothing,0
+e138a143-c40c-4a99-88c4-ccfcaf729117,3627.96,2023-08-30 03:08:48,"Blake, Brandt and Vazquez",Health,0
+2eb962d0-f2c8-4fd6-a92e-e7e202364686,1056.69,2023-09-11 22:09:22,"Smith, Brown and Ingram",Travel,1
+5dc8801b-bb40-428f-9c57-dc8ba1a03741,3090.58,2023-12-11 19:41:19,Yates Ltd,Food,1
+aa426143-0fef-49e1-acda-5779cd4d6dc8,624.58,2023-05-25 19:30:25,Carter-Calhoun,Travel,0
+d605d2d3-541c-446c-88a9-0a21f87013df,599.61,2023-02-18 18:23:54,Price Group,Food,0
+3650d361-5a7e-422d-9382-e697c745f1f2,2853.22,2023-06-03 21:13:56,Bonilla Inc,Food,0
+6aaa89fc-5895-4eee-9ab5-78583f45f41b,4931.18,2023-03-04 19:41:59,Williams Group,Food,0
+9a785f08-1954-4bff-95fc-a3ac69fbdfc3,1615.44,2023-01-04 13:22:51,Ryan-Lambert,Health,0
+a6a1e7aa-d53a-42de-8235-6999b6e79e50,2566.95,2023-05-15 17:49:05,"Stone, Lopez and Bryan",Travel,0
+258f493a-2bed-4fd8-9410-90af8dcba70d,2724.19,2023-05-27 03:19:47,Smith LLC,Travel,0
+177e9ae6-8583-4754-92b6-91cca819aa7a,3725.41,2023-09-19 03:25:22,Chavez Inc,Food,0
+6462bee1-d127-4ff6-aae7-9dd6bca775bf,3697.65,2023-12-22 12:04:38,Gordon-Jackson,Food,0
+e3eb2ddb-2cae-47f4-8f8a-5a102edd69df,4905.01,2023-01-17 16:53:22,"Harris, Whitaker and Jackson",Clothing,0
+5727cfc3-2407-459d-b599-7dcf3c7288a5,2465.99,2023-07-04 01:49:54,Gonzalez-Harris,Health,0
+92b169c3-f52f-4348-b05c-787503daa282,2685.99,2023-09-07 20:32:58,Mcdonald-Morris,Clothing,0
+b2c14650-d108-483a-94f4-7ea26af783c5,4853.88,2023-02-07 00:07:31,Scott and Sons,Health,0
+fae2cc25-7572-4c20-99e2-e5c097a06508,2469.36,2023-12-01 16:00:53,"Hall, Calderon and Miller",Health,0
+f33255f1-9871-4800-88dd-4bda9b1730ad,284.08,2023-02-14 06:27:18,"Davidson, Brown and Newton",Tech,0
+6fcb2e7d-eda4-4ec5-a17b-757bc382801f,4460.15,2023-04-29 05:58:59,"Cooke, Smith and Sanchez",Travel,0
+45831d7c-b294-490e-b1f7-788bd9fd5645,3106.79,2023-04-19 23:42:41,Phillips Ltd,Tech,0
+c791cc55-3cc2-4bac-9284-0148a22156b3,3986.96,2023-09-19 11:31:45,Patrick PLC,Clothing,0
+cd47e3ef-a5f3-4514-8f2a-cd4ebe664108,4524.86,2023-10-29 20:07:16,"Collins, Wells and Hartman",Clothing,0
+ee70de8d-45f1-4075-bd6d-048fc4a5c79f,191.73,2023-09-20 21:45:32,Key PLC,Food,0
+2d2b4908-68ca-4a5b-bfc7-60b598be04e4,3542.75,2023-06-11 15:07:29,Holland Inc,Travel,0
+27a9413a-8ca8-4cfd-808f-fe7ce652cfb4,3531.34,2023-12-19 08:17:28,"Moss, Osborne and Bowman",Food,0
+7eaa3124-62d7-42c3-938b-9ff635bae847,640.78,2023-03-26 03:13:56,Hale Group,Travel,0
+056c12a2-be89-4f84-a0f2-22cf3cb800e9,3893.48,2023-11-02 21:36:21,Holloway PLC,Health,0
+503c1eb5-dd34-4325-b8f2-f914e2d62503,3052.9,2023-03-21 00:31:13,Mccarty Inc,Travel,0
+9fccb021-0745-4fcd-b64c-212d8f4d83d0,783.53,2023-08-22 18:21:22,Lee-Clarke,Clothing,0
+e6d9bfd9-9002-4e7e-92e8-bd347403b3a0,2944.48,2023-04-23 07:27:31,Macdonald-Soto,Health,0
+1783cef4-f694-4b8e-845a-cf0df4819ea0,1024.47,2023-11-12 23:59:40,"Preston, Vega and White",Health,0
+5c2676f9-a09d-45ae-ad5c-265bf4eb08bd,422.44,2023-11-10 21:53:00,"Nelson, Zamora and Miller",Food,0
+81ab7aba-9e6f-4a17-937e-9e674824f02a,1606.72,2023-01-20 10:04:20,"Alvarez, Turner and Russell",Health,1
+132d1421-29ed-4f66-9925-5fb946bcbbed,206.12,2023-02-05 07:54:11,Smith and Sons,Food,0
+8602a27e-d34b-48df-a2f0-dc35893003ac,3060.01,2023-08-17 14:29:04,Gutierrez LLC,Tech,0
+98867de4-3739-4b81-8bc0-a7959490e7da,4562.86,2023-02-25 06:00:43,"Mcclure, Jackson and Deleon",Health,0
+418c919e-2985-4682-b19e-54fa0dbe9ba8,1443.02,2023-08-19 22:54:50,"Garcia, Jordan and Moore",Travel,0
+6a4dff11-f291-45d8-a41b-c41abf739939,1547.79,2023-12-10 11:42:19,"Cohen, Nichols and Powers",Food,0
+68caf805-772e-47cc-b12b-12412945c8c1,3322.79,2023-10-02 15:15:21,Wheeler LLC,Travel,0
+0b24f51f-6c4f-4e64-951c-c1ea5b4a2985,1957.02,2023-03-20 22:18:32,Dominguez LLC,Travel,0
+797fb28b-5594-4f4f-b408-dca5adacb10e,2068.01,2023-08-18 01:16:42,Hayes-Williams,Travel,0
+149ae312-7e87-4419-9c50-1260b3293392,4562.15,2023-06-25 17:57:58,"Buckley, Garcia and Mills",Tech,0
+fc3e77ef-97d5-400f-a07a-1a00c15ed58b,2561.68,2023-02-17 20:27:45,Waters-Ferguson,Travel,0
+6cfac99c-ccbf-4fd4-baab-c9c9d1ab2a81,3668.4,2023-12-01 08:54:33,"Woodard, Mccormick and Pena",Tech,1
+958b3079-3642-479e-a3fa-41444100ac47,122.58,2023-08-21 23:06:25,Davies Ltd,Tech,0
+8c6a6169-26da-44f1-9c00-c8bb79441c10,327.91,2023-09-03 15:14:27,Lloyd-Vargas,Health,0
+2c24135a-dc9d-47e2-b601-f47c229b2a48,3041.96,2023-06-07 20:18:11,West-Johnson,Clothing,0
+46b678f4-0e59-4df0-a4d7-e71a4ef5adaa,4087.81,2023-09-17 13:58:28,Zimmerman and Sons,Health,0
+9fa5bb1c-b1ce-45bd-876c-746d312b7403,1365.22,2023-07-18 12:22:16,Garcia-Ellis,Tech,0
+6ebfb435-9da8-452c-8b7a-fb936ee35db7,1993.35,2023-05-01 03:43:45,"Lewis, Brewer and Clark",Tech,0
+9dc0bcf3-7ab3-43f9-946e-3e176ca6a387,3400.99,2023-10-15 16:45:04,Simon LLC,Health,0
+db3bb62b-07a7-4711-a729-3a0c56d74f74,166.39,2023-01-10 03:56:50,"Cruz, Ballard and Ramirez",Travel,0
+15f1d491-7a17-4763-a3b7-5d97f0c06292,203.64,2023-07-03 06:19:30,Costa-Lopez,Travel,0
+ede2e720-eae7-4e45-b19c-d8048a13b913,3047.74,2023-01-08 02:36:33,Rodriguez-Brown,Food,0
+df4acaca-95cb-4192-80fe-b05a928b5b62,3419.04,2023-01-30 10:32:33,Smith Ltd,Travel,0
+4d478f41-d165-4404-a5ce-4954d1d61051,2.44,2023-08-11 15:13:48,Hart-Wood,Travel,0
+e3052468-9be3-4017-9017-3af2372cfe51,3837.29,2023-04-27 06:25:37,Hester Ltd,Travel,1
+e67c9e99-3cbb-4552-9e34-b895d0c79ade,3523.02,2023-05-25 17:35:01,"Walker, Garcia and Stout",Tech,0
+272d8e7b-aac2-43fd-8cf1-02ca9d1de86a,3944.26,2023-09-27 20:32:02,Miller Inc,Food,0
+d5fbf614-ccf3-469f-8ab4-3db2382d69f9,2202.25,2023-10-11 22:56:45,"Phelps, Reyes and Santiago",Food,0
+abb827f6-f34b-4e44-ae36-cad3d619c872,4303.74,2023-05-28 07:20:13,"Zimmerman, Hutchinson and Long",Tech,0
+e42233d5-786b-4d47-841d-a6bab65520d4,3074.98,2023-07-08 16:25:10,Hammond PLC,Travel,0
+e1a81a6e-80e1-4c83-b043-32494edaa10d,4827.91,2023-07-29 03:09:21,Morrison LLC,Travel,0
+58a1677e-1e89-4d87-90c7-8e03580e5619,2490.39,2023-03-19 14:02:13,Austin-Harris,Travel,0
+84515b6b-418d-42a7-8904-d5c0d4ead887,3123.5,2023-04-08 00:49:03,Espinoza-Perez,Tech,0
+761ce710-de4b-418f-b7c4-cbf41ca938a8,1478.67,2023-03-27 21:17:57,Gomez-Nichols,Clothing,0
+ca27b3b8-164c-4782-8adc-e74b0c0e430d,1936.67,2023-04-26 18:11:39,"Burton, Boyd and Warren",Travel,0
+108032d9-8948-4a0a-8d81-d49a13d4ef99,2857.08,2023-01-24 03:36:01,"Martin, Hall and Nguyen",Tech,0
+0169cf05-beb1-496b-bfaf-acfe62ba7826,2192.12,2023-09-17 20:17:45,"Allen, Sanders and Torres",Food,0
+b546d5db-3b6f-4a3b-a86b-44e848d1d16e,3701.4,2023-03-07 11:00:30,Knox and Sons,Health,0
+71d01a55-0d23-4c17-8588-eea34eeb651a,1914.49,2023-09-05 13:11:08,Rhodes-Goodwin,Tech,0
+ce39a0b9-cca7-4996-92a0-8c91f89f4abe,2288.23,2023-09-01 14:41:59,Ellis-Kelly,Food,0
+71e2eb5c-521d-452b-a6db-0fc5b13639be,4172.07,2023-05-15 22:53:13,Wilson Ltd,Health,0
+456a2251-8f41-4462-99a0-2152fb1eb57e,4940.89,2023-06-13 14:32:17,Thomas Group,Clothing,0
+10485926-51f2-49fe-a912-2f6e43b89a20,589.33,2023-01-24 02:29:04,Adams LLC,Tech,0
+745b4e5f-dc98-4104-8537-013a66c5265c,3266.24,2023-04-26 03:29:08,Jones-Martin,Clothing,0
+91f6bd25-3272-4142-a06b-686b305f960f,4257.09,2023-08-14 13:52:24,"Shah, Dominguez and Gonzalez",Clothing,0
+16a8d0d7-a08c-4978-a822-9a447613a303,2738.39,2023-12-13 03:48:15,Mendez-Manning,Tech,0
+706d02da-4077-49a5-87c5-7630122beb46,1138.44,2023-06-20 04:41:20,Douglas PLC,Clothing,0
+119ce076-a30f-4d76-a43b-0f4fe266691e,337.9,2023-02-06 03:15:57,Houston-Reyes,Clothing,0
+64acd85c-f465-4a3e-aa03-0387b2f7b37d,3549.92,2023-08-14 18:43:11,Hamilton LLC,Travel,0
+2604ff88-4645-4b6c-9947-1c648cf23d97,2117.2,2023-10-10 12:05:46,"Lambert, Miller and Martin",Travel,0
+7ef0093e-c71c-416d-90c3-555e58268c8f,4922.5,2023-05-06 08:02:38,"Ochoa, Sullivan and Garcia",Food,0
+2d60a9e0-8867-4f12-b8d4-8f90cc6363ce,3805.52,2023-01-12 03:42:26,"Jenkins, Brown and Gonzalez",Food,1
+ddf57c36-f790-4808-87d9-f103ca769128,2625.98,2023-02-01 14:04:45,Thomas-Jackson,Clothing,0
+b9eab09d-2bc4-4fab-ba04-4cc9231cb246,3662.56,2023-02-22 18:37:57,Knox-Moore,Food,0
+3ba32827-b73f-4496-a1e0-4920a9284bb3,3320.11,2023-07-31 12:25:03,"Munoz, Smith and Franklin",Health,0
+beb59289-2e2a-49fa-bb10-c8d31e728a11,2418.23,2023-08-17 08:23:41,Ruiz and Sons,Food,0
+38b0e2ae-ded0-4854-9601-7270e65bdf0b,2946.01,2023-01-17 03:15:03,Hernandez Group,Tech,0
+63c1cb00-0e7e-4a07-b4a8-13366c41ea41,2590.27,2023-07-16 02:01:09,Carr-Clayton,Food,0
+1d572ebb-a72f-48d1-8965-0f32134d13c1,2032.88,2023-02-17 02:58:31,Vang and Sons,Health,0
+8d97a7dd-d161-4aec-9ec5-bdced8aacbcd,1666.96,2023-03-09 01:23:13,Hall-Myers,Tech,0
+8b40ed87-8c49-4ee3-b5cf-c6755c1a7fdb,1556.41,2023-05-30 06:32:54,"Moore, Ruiz and Marquez",Food,0
+9730ac13-1181-46ab-8032-dde08948b39a,1550.7,2023-10-29 13:41:45,Hahn PLC,Travel,0
+3a5dfeb1-7325-4100-a84f-42cc4306b337,2858.32,2023-11-08 18:01:19,Johnson Ltd,Health,0
+8ffab3ce-d307-455e-8789-884ccf1fd5eb,3843.47,2023-11-21 23:02:36,Mcintosh Inc,Food,0
+0ac26218-e98b-455d-972b-88a6add4c9ce,2096.39,2023-08-24 10:10:57,Shaw Inc,Food,0
+a7681df0-f82e-4a4a-ab2e-b27f269eefc2,900.74,2023-05-25 23:37:00,"Williams, Reynolds and Dixon",Travel,0
+3fc24d73-5c01-431b-b75d-f6d39106d53a,3563.78,2023-06-20 15:34:42,Garcia Group,Food,0
+471bb218-7a86-40d0-9834-cc58b9e644fa,2282.87,2023-07-25 01:34:32,Medina-Quinn,Health,0
+caf9c2be-2f69-4df5-acd5-fb9b7f8f53cd,2374.96,2023-03-12 00:36:16,"Kirby, Cook and Santos",Tech,0
+e165b1c6-3b81-4363-9a47-c69c2469ca6d,4798.68,2023-05-24 09:08:14,House-Lamb,Travel,0
+e57e9b3f-8e93-409c-8e64-6327f9a14afb,4519.82,2023-07-02 12:01:00,Marks LLC,Tech,0
+bf944fb8-7176-4ce5-bd3e-758a1c55a3d4,1824.83,2023-11-23 19:49:39,Andrews-Frost,Clothing,0
+499933e6-f451-4529-850a-3b0de0e35b01,1956.83,2023-07-31 15:35:36,Woods and Sons,Travel,0
+d5d7cb4d-5640-4185-bc58-e4ea78a5b8ee,4706.87,2023-02-02 14:47:31,"Mejia, Nelson and Mclaughlin",Health,0
+16ae8087-24df-49a6-8c11-c2c66589a0f3,1341.82,2023-02-25 20:06:38,Crane-Sanders,Travel,0
+ca4f884a-0f97-448f-94d7-9a8bb6eeec90,3416.68,2023-12-27 23:12:51,"Terrell, Campos and Wiggins",Food,0
+094bda8c-aec2-45be-ada6-347c29700296,4479.24,2023-02-10 04:32:47,Sawyer Group,Tech,0
+50e2a069-55f1-4edf-b17a-e29b35a57440,3399.54,2023-10-25 13:10:08,"Jensen, Malone and Hurst",Clothing,0
+779ca963-fbc0-48d1-b911-a9b6988a8405,1362.61,2023-10-17 19:35:38,Jones Ltd,Tech,0
+1797d667-920e-455a-9b05-0dd8bf8f327a,4775.3,2023-12-09 01:27:52,"Hill, Jordan and Kramer",Tech,0
+8b43bb5c-9483-467c-a0a8-069ac341bb93,1258.87,2023-02-11 00:04:56,Kennedy-Gonzalez,Tech,0
+973411d4-326c-411e-ab9e-b9a740a1253d,4306.71,2023-12-23 06:49:59,"Lindsey, Cox and Thomas",Health,0
+60e2ae08-6f5d-427d-943a-39f1bd20aae1,1486.98,2023-01-17 16:40:11,Williams and Sons,Tech,0
+143a9174-9ee7-4a63-b19b-5a0731bde283,4042.96,2023-02-12 21:44:49,Wise-Burnett,Tech,0
+7f123dc0-e382-42f4-80c8-8022db494da2,3174.7,2023-09-25 08:49:23,Bailey Inc,Clothing,0
+05c35e0d-80d8-45fd-ae93-010afc201aee,4869.22,2023-01-12 13:21:29,"Robinson, Chambers and Williamson",Tech,0
+a73ae1f8-c089-40c4-b4b0-e4cb06b86461,3988.44,2023-05-17 07:21:01,Rogers LLC,Food,0
+df0fcc61-c3ac-4221-a370-a50e07bf508c,4420.07,2023-07-25 00:54:12,Garcia-Hogan,Food,0
+5835a296-3a69-4434-b001-7d994f1b37ad,3216.45,2023-12-14 02:38:35,Haynes Group,Health,0
+c0193381-036a-4185-8dc0-b1f9c4c99d5f,4090.5,2023-04-08 17:17:04,"Sherman, Davis and Cardenas",Travel,0
+e05bc3b2-4cdb-4913-b151-52a4d5dcd9f9,1367.23,2023-11-11 10:33:32,Reid Group,Tech,0
+9902ba7c-4c4b-415f-822c-124ff7620082,2840.72,2023-05-29 06:47:07,Ford-Mcdaniel,Health,0
+3e351f0b-7ef8-4040-8490-ff8c09f3e70f,3790.46,2023-06-05 18:42:10,Cook-Coleman,Tech,0
+ce4128b5-0a15-4b2e-a39c-93e2485fca62,3117.15,2023-01-24 05:03:35,Mills LLC,Travel,0
+2c5b4629-a531-41f6-a8bb-f241a83e85ed,1655.88,2023-12-06 15:52:45,York PLC,Tech,0
+2155ba50-f8a2-4ee9-986a-e037cc1a2a21,3050.21,2023-06-07 01:29:13,"Jensen, Luna and Barnes",Food,0
+09d33e91-c302-4b61-bc5d-ab345457e048,4823.17,2023-03-09 05:01:09,"Smith, Martinez and Hancock",Food,0
+7dbd02fd-f145-4b50-b623-13d883d0e4bd,2027.89,2023-01-25 23:47:49,Flores-Bell,Clothing,0
+477f2917-e8e8-492c-bc2d-4c7a03aa6419,4400.02,2023-02-12 21:22:04,"Rogers, Jacobson and Campbell",Food,0
+8553c856-4bdf-4eb7-9c09-b9d1f522d565,3532.64,2023-08-15 01:01:42,"Owens, Park and Moore",Travel,0
+5fbf8483-16ce-42f6-baa7-cd4fea0676c6,3961.11,2023-01-27 05:45:27,Hanson-Smith,Clothing,0
+9d3c59b5-2813-42f1-be5a-32dd01cb0538,4910.86,2023-04-04 12:00:43,May-Pittman,Health,0
+56c6bded-c373-4fc8-bf0c-84ab6fd75059,4778.66,2023-08-25 23:20:49,Love-Cole,Travel,0
+fe429326-9884-45dd-a5db-cf6ee502217f,4784.68,2023-12-13 07:48:05,"Fernandez, Carlson and Faulkner",Travel,0
+5b206ab9-6210-4e8b-9e0b-4a1ea365e528,4279.45,2023-04-03 20:21:38,"Harrison, Nguyen and White",Travel,0
+093b1655-3429-4808-b645-909201a19bf7,2822.87,2023-07-30 01:44:50,"Hunter, Soto and Roberson",Travel,0
+4650c1c0-e519-4d17-a432-57269b953a02,1618.69,2023-11-06 08:22:36,Smith LLC,Health,1
+382cf105-f3c7-4ecc-9f32-5f3395ef0352,4646.29,2023-08-03 18:15:51,Davis-Perry,Tech,0
+5e1c08f7-6fa2-4205-a7c1-81430152c009,1512.95,2023-02-27 07:08:31,Taylor Ltd,Food,0
+761f0d7d-de77-46c8-870d-13376c8e143c,1918.74,2023-12-23 10:37:43,"Cline, Lee and Warren",Tech,0
+3a360a32-5aef-410c-a64e-6bf9e1d1544b,3454.75,2023-12-05 03:04:14,"Ruiz, Spears and Young",Food,0
+bd834fc2-fdf4-4dc9-b99e-f57df1b179b8,743.26,2023-03-22 13:45:44,"Williams, Bird and Villanueva",Food,0
+8505594a-25e5-4c8e-8364-4c4ffda88f3b,2094.49,2023-07-05 08:05:25,"Dunn, Griffin and Christensen",Tech,0
+5d713ae2-ab1b-4f9d-89dc-5ac830185b46,2711.1,2023-10-20 07:59:12,Navarro LLC,Food,0
+0f43f371-ee4f-447a-af34-3f276eedc347,559.51,2023-05-02 18:29:47,"Gibson, Brown and Gonzalez",Clothing,0
+51ef3bf6-f61d-4792-9c2d-c8fc1688c6cd,760.42,2023-05-14 15:13:42,Taylor-Manning,Food,0
+d9e28aa6-ba11-4ded-8d1a-d27b937628fb,4368.01,2023-09-20 01:20:27,Bush Group,Food,0
+712b06a7-5330-4606-8bb9-c75d05bcad6e,4754.2,2023-01-11 00:07:10,Roth and Sons,Health,0
+399dfb01-5d07-4ebd-869f-e8dabc2ab009,4832.09,2023-02-07 17:57:31,Wright-Smith,Clothing,0
+8cd547fe-748b-4fc4-b653-12aa908a911e,2319.36,2023-04-18 18:50:32,Lin-Hendrix,Health,0
+036e9cf2-6e9a-4296-9651-d5b0454350b9,1033.89,2023-04-24 16:36:50,Ramirez Inc,Tech,0
+74ddf34f-d322-4ea4-bcf4-7bc5282823d1,2216.96,2023-06-21 05:38:01,Williams Ltd,Travel,0
+74973a00-fab1-4b53-a290-1889b8dffe28,1986.96,2023-12-30 23:06:52,"Hernandez, Harvey and Shaw",Health,0
+ac950c03-7641-4082-971e-7f1d2c610aae,4493.87,2023-09-11 20:56:53,Griffin-White,Health,0
+54cb8f90-d3bc-4af7-afde-4ccb2b45aea2,4647.34,2023-12-07 15:17:11,Mendez-Harris,Health,0
+94a3818b-1165-482f-949b-5ef2e74f32a0,3844.23,2023-10-04 23:24:54,Smith-Gutierrez,Clothing,0
+0c71dc02-34b9-4745-92f1-ef991334b9c6,3955.56,2023-06-08 05:21:15,Medina-Carter,Travel,0
+c107d2a1-cfa1-40a1-809a-d2932e5db187,2022.24,2023-02-04 18:44:51,"Ward, Riggs and Solis",Tech,0
+4421bae0-e3e2-4f8c-859f-0ce3d938d04e,1821.29,2023-09-07 17:10:39,"Barker, Ramsey and Donaldson",Clothing,0
+6ed2e55f-89ae-41d1-8caa-adce4cb9b8d3,4980.98,2023-08-03 12:16:17,Watts Ltd,Tech,0
+1c7ec459-0a67-408a-83ef-7d0285aa9de5,1826.15,2023-09-20 17:53:31,"Stephenson, Richardson and Bowman",Clothing,0
+37829836-9a62-4fb6-a1a0-c3e535345e6f,2183.79,2023-04-17 09:23:15,Franklin PLC,Clothing,0
+b060db2d-72f2-44ad-b919-13ad11459f2c,290.12,2023-07-25 00:35:21,Moran-Perez,Health,0
+ae8c8fb4-3997-479e-8e44-77ce56e608b9,611.53,2023-12-30 12:40:38,"Watson, Gonzalez and Smith",Health,0
+863e0b63-1474-47d9-9195-d9dce70610bd,1386.69,2023-06-15 10:38:55,Henry-Hammond,Clothing,0
+926e457f-9eb6-49dc-8813-c973769b1023,1173.06,2023-05-01 21:09:15,Obrien PLC,Travel,0
+066b500c-d0f2-456e-ad09-b47d1f2644a9,4533.16,2023-05-26 12:06:27,Lewis-Rios,Food,0
+2976a63b-49bd-432f-8d2f-8359395cb0f3,2945.04,2023-11-06 00:40:52,"Edwards, Brown and Watson",Health,0
+b3f539e8-202f-4365-9c11-f540287f56a7,3229.98,2023-08-18 22:15:55,Moore Inc,Travel,0
+0ed22061-5437-4b04-a558-4789e73f6d3f,4151.19,2023-08-05 21:21:19,Collins Group,Travel,0
+1e4aefd6-0a49-4faf-b77c-a8f284ee6a86,4273.1,2023-03-27 04:24:15,Jones-Stephenson,Tech,0
+4a2c72d2-fa04-455b-a18d-4079139d4141,521.09,2023-05-15 12:28:35,"Hoffman, Smith and Todd",Clothing,0
+9e852bba-e150-4967-b0ac-4f7faf3203f9,1602.38,2023-05-14 17:02:11,Collier Group,Health,0
+4ce9d184-fde3-4109-abab-b0197fae41f7,3208.95,2023-12-20 00:52:58,Harris-Perez,Travel,0
+8a9635c6-6946-4622-8c68-3e9ef21ae3e0,1488.84,2023-11-19 07:34:44,Sanders-Lee,Tech,0
+1349ab2d-2c5b-4a52-b03a-c0949e1f385c,3733.22,2023-08-21 19:09:32,Fisher-Nelson,Health,0
+0b6beff1-d905-430e-96aa-2c3189d6855f,2217.48,2023-12-18 15:14:38,Graham and Sons,Travel,0
+b26cb798-6816-4000-ad26-a9182c29bb58,1299.84,2023-08-15 22:02:08,Daniels LLC,Health,0
+d0111eea-07f8-4daa-8bc7-7fde558cfd48,1806.05,2023-03-30 19:46:04,Rogers-Herrera,Food,0
+d7ff6ee0-1f93-41a5-975c-a292146da670,122.23,2023-09-08 17:56:41,Smith-Thompson,Tech,0
+453d08bf-5a4c-4d43-8f00-8bf8760bbf3e,2624.65,2023-12-13 05:18:06,"Ferguson, Moore and Wallace",Food,0
+50c4fdd7-173b-412c-93b3-ce62afe5254b,591.29,2023-03-29 06:21:32,Clark Group,Health,0
+71cc167e-01ef-4d17-a407-1bce72a40412,3379.73,2023-06-24 08:02:55,"Johnston, Murphy and Clayton",Food,0
+3b17ae05-e7ce-4fe1-bd7b-c90901e56454,2917.03,2023-06-18 22:42:17,Chapman Inc,Clothing,0
+6ba97053-7f54-4784-a4f0-f8a1e077b8c9,4816.31,2023-04-26 13:02:28,Ruiz PLC,Food,0
+70cf7886-365f-4cee-bf1b-871df3881015,1615.79,2023-10-25 17:03:25,Roman Group,Tech,0
+f5a5e1c6-4a28-42e0-99cc-98bc22b7326b,1704.23,2023-01-27 02:08:48,"King, Tanner and Turner",Tech,0
+cdfc8b8c-32c6-4a61-b605-5d0a5c1b1418,1285.81,2023-11-16 15:26:44,Benitez-Grant,Food,0
+1245c68b-9977-4191-ab9a-981cc2a5b2af,1317.79,2023-02-26 19:56:24,"Turner, Johnson and Gardner",Food,0
+018190b5-8ea1-421f-b139-c4f4c4dd81ad,1311.96,2023-09-04 19:51:55,Sanchez-Lewis,Clothing,0
+06c2db3a-6081-4928-b2a3-ccac22341ad2,957.83,2023-04-20 07:59:15,Perry PLC,Health,0
+06075f56-554e-4b63-9bf8-f406062e3ad0,647.87,2023-03-01 09:35:04,Mcconnell Inc,Health,1
+3f70ac19-37bb-452e-9555-e494ea0a3844,4044.5,2023-02-15 15:47:12,Burke-Martinez,Food,0
+4902401b-5c18-4c70-b4d3-361ea6ad2c97,2094.75,2023-12-29 21:50:13,"Howard, Rodriguez and Riley",Travel,0
+8c57edad-3a9b-478b-a8d0-a0d56b6f4337,1093.92,2023-12-03 03:24:00,Keith-Rodriguez,Health,0
+b8a426d8-8aec-43d1-a35f-00e68373229c,2007.78,2023-11-03 10:27:47,Sanchez-Benson,Clothing,0
+6d79359d-80aa-4ca0-a1f1-07547e6af4a8,2258.7,2023-11-02 04:27:12,Quinn-Johnson,Clothing,0
+da4a0c85-de83-42ce-81d1-0837d76c2189,3326.94,2023-03-11 13:41:49,Perez-Berry,Health,0
+d81ab737-6e0d-4025-ae2e-7db88e124d8a,1124.08,2023-02-23 06:17:55,"Collins, Miller and Gomez",Tech,0
+4e333972-09fc-478d-b9e4-61a45fadb529,2813.06,2023-11-01 12:46:33,Jones-Curry,Clothing,0
+6b77eda3-073d-4498-864c-e5ea5ad3d7f5,2916.98,2023-06-15 07:53:19,Chung-Bates,Food,0
+9e9768ae-5f96-47a8-a238-b1d4aa2b2dfe,531.56,2023-11-09 08:09:22,Kelly Inc,Health,0
+e5c6b790-7ead-4655-bb9e-74dc44fea193,748.14,2023-08-21 03:54:12,"Thompson, Stafford and Lambert",Travel,0
+6a3cc359-136b-4b49-b88c-a5e930931db6,1599.01,2023-02-03 18:55:47,"Chavez, Knight and Quinn",Health,0
+8df3015f-1c89-40ce-99ee-475bb00d8536,1367.2,2023-02-26 09:52:53,Delgado-Thompson,Clothing,0
+87174661-cc89-4f76-acc7-28f87dede32c,2233.95,2023-07-02 22:38:45,"Tucker, Copeland and Diaz",Health,0
+0f1a1f6d-c5ab-415e-ad4b-ccc79d54de56,3034.57,2023-07-11 00:53:33,"Stewart, Snyder and Brown",Health,0
+84cfc708-3921-484d-9354-429b8d685cc6,4367.84,2023-06-15 16:18:27,Savage Inc,Clothing,0
+b522330c-f5ce-4987-9d5f-474b2b321f46,4734.32,2023-11-19 23:42:23,"Oneal, White and Callahan",Tech,0
+2724c07b-069a-4c8b-9806-56901fbe0611,4021.11,2023-05-12 11:06:52,"Smith, Smith and Harrington",Health,0
+84ed4bff-32aa-48d1-88c6-48dd776d20f3,1774.23,2023-06-03 01:21:59,Harris-Garcia,Travel,0
+dce2b29d-2603-4468-a3e1-f397957da4a6,3574.81,2023-06-15 22:18:17,Vega Inc,Health,1
+52d1b38f-4eb6-4d9f-9210-485d149e9b88,4943.27,2023-05-11 18:34:35,Williams Group,Health,0
+a05e11fd-75eb-4e18-9e8f-e2909cf4be57,1821.25,2023-08-09 20:49:46,Khan Ltd,Travel,1
+4497d48c-0a4a-47b7-bcf9-60bc0b7cdd45,2305.36,2023-10-01 22:23:59,Weaver and Sons,Food,0
+988f0d0a-9200-4a0f-be7a-6c0493949fff,87.97,2023-03-09 07:05:27,Oneill-Jimenez,Tech,0
+3d71975e-d40f-4bea-9580-bc47908aece3,1825.48,2023-09-18 23:25:07,Zuniga-King,Travel,0
+a5d641c9-847b-4f73-9000-2a415f6a93ba,3913.97,2023-09-01 19:00:26,Phillips-Smith,Food,0
+e66b5da6-0d72-433c-8d12-6741e03ad003,1078.97,2023-11-10 02:51:39,Hanson-Santos,Travel,0
+42302c0b-3bae-441c-967a-43c167d2765d,941.03,2023-12-23 22:26:36,"Riley, Johnson and Soto",Food,0
+89d727bf-50bc-49a9-a185-ccd2792f55ea,2455.39,2023-10-05 22:11:22,Acosta-Dunn,Travel,0
+f2f9f436-1d5a-4a86-90ee-26d3ca869d2c,3904.3,2023-11-13 21:09:56,"Nunez, Brown and Doyle",Clothing,0
+aead08af-042a-47c8-8f97-d73700eebacf,1355.1,2023-08-13 19:58:52,Campos Group,Clothing,0
+80810dd4-3995-467f-86dd-c2953245c51e,2674.71,2023-09-28 10:14:57,Rodgers-Thompson,Food,0
+5a84f415-c386-47d7-a9fb-6951346e77e0,1001.22,2023-10-22 08:47:33,Taylor Ltd,Tech,0
+c44833db-4a03-4687-b13c-eaf7957faf47,1788.77,2023-07-19 02:21:45,"Barnes, French and Randolph",Clothing,0
+70708b74-640d-4d0d-bd97-f5f386e1c89e,4747.58,2023-05-21 13:07:04,Spencer-Yu,Tech,0
+68122b45-812f-414a-b9ad-ac0fb4e0df08,1241.15,2023-07-08 09:26:39,Jacobs Ltd,Travel,0
+397be0dd-6317-4b06-8590-d9b6bcc4053e,2466.9,2023-08-25 21:35:49,Rodriguez Ltd,Travel,0
+f427aa19-4920-47b7-9f44-7d73897d09b9,3226.12,2023-05-16 10:40:41,Morgan Group,Health,0
+2847debd-f9bc-447d-be9a-7ff1571a0b4d,4553.22,2023-08-23 04:31:01,"Werner, Schultz and Allen",Tech,0
+b189b55f-8270-4548-afc3-06a77dd873d4,2436.94,2023-04-21 19:19:13,Estes-Avila,Tech,0
+f18b2702-e35d-4808-9b61-0a09987fdc6c,4504.02,2023-03-13 17:29:12,Lopez Ltd,Travel,0
+655fc3ac-241e-472d-a51f-9b92d2b0731e,2482.61,2023-06-15 14:35:16,Hunter-Stokes,Tech,0
+1717ea7b-c5c0-4241-b745-c58773fc63ed,3999.87,2023-06-15 19:35:15,Lopez-Stevens,Health,0
+6aadd503-67ac-4d08-a9fd-9e156f6433e5,1947.01,2023-05-07 21:57:54,Williams Ltd,Health,0
+4cd72c62-eeff-4b61-9ada-8d6b0c7bb025,3551.39,2023-05-19 04:58:46,"Alvarado, Thompson and Fox",Clothing,0
+d9c4f110-1a99-420a-810a-e89e0ef4475e,2738.48,2023-05-03 11:49:11,"Davis, Bean and Hill",Tech,0
+05b7919f-ade3-42b2-bd65-a504dcddd5ca,4198.28,2023-09-18 10:53:10,Mason Ltd,Travel,0
+76451500-a2fa-4400-8ece-05bbcb1d192c,712.14,2023-04-04 13:27:06,Patrick-Garrett,Travel,0
+8bc5a5a3-7327-4eae-9bc7-180f9e005832,1237.86,2023-01-07 05:44:24,"Gonzales, Valentine and Brown",Food,0
+27af065b-6247-40f3-aac5-6fd8338276ff,4885.77,2023-06-09 07:27:29,Bass and Sons,Clothing,0
+70b3aa02-e5dd-4b03-8492-3ae424a8b340,4850.32,2023-05-20 11:49:26,"Smith, Williams and Sanford",Travel,0
+986e3f45-7a41-47c7-8026-dde655007cc8,936.78,2023-01-24 07:28:08,Hernandez-Jimenez,Tech,0
+b3b45c91-5a3b-4643-91a5-46b4157a66e9,2888.91,2023-02-26 10:59:19,"Walker, Taylor and Villanueva",Health,0
+14f841c3-fa85-47ae-9a57-9e4a4d109408,4989.42,2023-02-12 14:58:34,Hernandez PLC,Health,0
+0f80295b-51d1-4383-b993-ad6bcd257ff0,3483.14,2023-07-10 21:47:17,"Vazquez, Walker and Knight",Travel,0
+28efc852-898a-4c8e-b121-3ce57039e3fc,2693.15,2023-08-23 13:57:58,Smith-Santiago,Clothing,0
+913cdc9f-aac7-40bc-b371-e101fc20445f,39.49,2023-10-26 11:45:19,Weaver-Barron,Travel,0
+128ca94b-92be-463b-bae5-db76c8ca46a4,1734.78,2023-08-24 09:17:11,Jones and Sons,Clothing,0
+d31ef210-57c3-4fff-923a-a5a7877a580b,29.41,2023-04-02 20:38:09,Davis and Sons,Food,0
+c783e294-7e3c-46eb-bf8b-11e6c3d8e34d,134.29,2023-08-15 19:46:40,Cole PLC,Clothing,0
+be6bf129-0922-4e71-9f27-3d2714c2b183,3035.06,2023-03-08 14:31:58,"Gregory, Summers and Roberts",Clothing,0
+07e76f75-45b6-4e88-a967-0dab77cc72b1,4592.8,2023-08-19 16:16:13,"Wilson, Stewart and George",Clothing,0
+764befe7-c999-4538-865e-962e0bf2eb68,2638.03,2023-09-11 18:55:14,Brown-Brown,Travel,0
+af093789-0bef-42c5-b430-65e28dac8c1e,2311.21,2023-06-14 19:10:07,Gomez-Long,Food,0
+6f6ecdf3-17b3-436b-ad39-ab2080bb6a2c,4995.63,2023-02-06 09:36:42,Hunt Group,Tech,0
+33ded65f-9c2f-4052-af0a-62c98cf7262f,2620.38,2023-07-14 00:20:15,"Hill, Perry and Wall",Food,0
+2ded7974-7afc-443d-930e-a89902669d24,4342.15,2023-02-18 02:28:41,"Berry, Hill and Gay",Food,1
+c3c66ca2-c093-4dd9-8d90-35d00722be44,2579.57,2023-02-16 04:50:02,"Joseph, Vazquez and Bryant",Health,0
+8f9a8286-45ca-4332-b83f-48ddce5bc574,4073.59,2023-10-22 01:56:31,Mullins-Rogers,Health,0
+9bb83b15-eb5a-41d9-abb2-9e3506c52787,906.0,2023-08-20 19:45:19,Charles-Barnett,Health,0
+fa8c1374-27e2-42fa-971b-7f159a837fa3,2234.01,2023-05-07 16:20:15,Morales-Hamilton,Tech,0
+374bdfd4-77d7-4f36-8239-e5ab486d9bac,3368.77,2023-12-19 02:42:09,Turner-Foley,Health,0
+39c4043e-9c87-4f11-9af9-8beb631f3cb9,4106.07,2023-10-30 03:48:34,Carney Ltd,Clothing,0
+39fb6fa8-23be-4aa3-8065-a04177c39c20,1351.77,2023-09-04 06:54:20,"Lopez, Sexton and Reynolds",Health,0
+85bf36c4-7e81-4e9d-a55e-38d4b96c5d92,4653.5,2023-11-03 04:04:12,"Mclean, Cortez and Bell",Clothing,0
+3ced8456-3df4-4ebc-81b7-1394daa94de6,3682.74,2023-10-02 04:45:11,Goodman-Daniels,Food,0
+494b428b-0ca8-44de-8260-346c61843df8,2643.65,2023-03-23 23:19:41,Ellis-Fernandez,Health,0
+10467cc3-1528-44cc-80bc-c939aaca2052,3637.23,2023-05-06 19:21:27,Rogers-Nelson,Clothing,0
+fd825ec0-5356-4d3d-b91a-38677c585b64,3667.1,2023-02-17 05:45:31,Bates-Chandler,Tech,1
+73b1c4d1-1666-4787-85e9-8b33f143ef05,2714.23,2023-06-02 20:12:53,"Herring, Perez and Davis",Travel,0
+160ac87b-a67a-4e65-849a-431393ee871b,2064.37,2023-03-21 07:56:05,Hayes LLC,Clothing,0
+03a8fb36-3c3c-425c-9d3e-3d0ad5f17b7b,2383.83,2023-06-28 20:23:36,"Hall, Simon and Davis",Travel,0
+28f2d80e-1180-4251-a5a3-569b0f3cc902,3862.77,2023-05-17 16:26:58,"Johnson, Campbell and Young",Clothing,1
+ace8c61d-700e-483c-b532-c8433665d5d1,146.83,2023-07-14 12:59:56,"Cherry, Stevens and Peterson",Travel,0
+b2502d18-f709-40de-bae7-4d552f631bb6,1280.0,2023-08-31 06:11:25,Kim-Smith,Health,0
+ae9b0a52-fd66-4cc4-ab20-3f286d3d1ad7,3644.55,2023-05-11 01:06:38,Jenkins PLC,Clothing,0
+92f99a79-4005-4403-b6ce-8f55deac4217,3105.2,2023-06-07 02:06:18,Richardson-Williams,Food,0
+1688e35c-4601-431f-84d5-2eab506af40a,1242.02,2023-11-23 21:29:03,"Woods, Bradley and Young",Health,0
+75b002c4-cefc-405d-a743-0917046b07cf,2925.39,2023-10-22 20:38:25,"Spears, Howard and Figueroa",Tech,0
+5bf1130a-9117-4eb3-a15f-d7414a6703e0,4000.41,2023-03-23 13:06:37,"Klein, Kelly and Strickland",Travel,0
+8e2998c8-050a-44b9-b0a7-f8f73e6a23f3,3335.81,2023-05-07 23:05:34,"Campos, Harris and Martinez",Travel,0
+33c9d07b-bcd8-4217-b3af-2325f79fb110,3109.84,2023-07-14 15:38:42,Chapman Inc,Travel,0
+dcf64064-b480-454c-b1a1-742bc82890df,4495.7,2023-02-22 06:22:24,"Harris, Lyons and Hernandez",Tech,0
+a0b51428-9620-4f0a-9e5a-ea752a4ddca1,253.27,2023-08-07 23:28:14,"Ramos, Taylor and Trevino",Travel,0
+92a83d4d-7559-4af0-a5e6-ce64754922ca,1114.96,2023-07-09 00:45:59,"Huff, King and Turner",Tech,0
+030775fc-e3b7-4fbc-8ea5-d5c86ffac085,3271.99,2023-02-20 00:36:47,Waters Inc,Travel,0
+ac29f0a6-0945-4a42-9a66-79c7e7f8cc54,541.34,2023-08-04 07:23:35,Larson-Allen,Food,0
+ff14c2cf-7de2-4a8a-ad9d-e20ffaaf003f,2120.72,2023-01-09 16:54:40,"Duncan, Romero and Smith",Tech,0
+39f42c29-5bc9-4e71-a4f0-c898cabd53b4,2652.26,2023-06-21 07:46:24,Wu Ltd,Food,0
+04526bd2-eec9-4f88-bbbc-d7df8a8a89fc,2801.42,2023-05-07 22:32:18,Stephens Ltd,Health,0
+1a140eea-ff27-4802-ab8b-9d20dda141de,14.55,2023-03-10 22:29:58,Bradshaw-Matthews,Food,0
+01f011f1-972d-41d2-9b91-ea640b2375e3,2806.44,2023-12-06 19:25:17,"Chapman, Gill and Yu",Clothing,0
+0b4d8261-645b-4886-b14c-800031a4042c,2633.02,2023-08-19 20:38:07,"Randall, Walker and Johnson",Travel,0
+492d7736-9cdb-4670-a77d-6dffd549ee3c,1382.61,2023-01-04 08:20:29,Davis Ltd,Health,0
+326a718b-7fbb-48e0-82e7-77552ba6d01d,2153.59,2023-02-21 15:36:04,"Flynn, Turner and Conley",Health,0
+f1fdff41-a57b-4394-8ce0-2d05a469e3a0,136.59,2023-04-02 06:56:31,"Ellis, King and Higgins",Health,0
+c4b4f0e7-3e67-4cec-af67-49c94787a20a,387.18,2023-06-20 07:30:52,Hodges LLC,Health,0
+85ee4cc4-c8eb-4a02-a713-289451032e1f,4767.64,2023-11-26 01:48:47,"Hernandez, Golden and Ball",Clothing,0
+99c088f9-39c8-4275-a0c4-bed2175b0785,2879.98,2023-02-02 21:59:36,Obrien-Gonzalez,Health,0
+16608d47-74e0-4bc2-b312-4443c77b1c71,2561.89,2023-10-02 10:39:40,Bryant Group,Health,0
+41c92a8b-0249-4ac9-be22-aa3ab1e07c30,744.92,2023-05-25 06:58:52,"Nelson, Ramos and Walter",Clothing,0
+0fded344-9329-4f0e-9b86-e5ba12131992,2667.52,2023-08-27 11:40:14,"Mercado, Goodwin and Rivera",Health,0
+19c86abb-4750-408e-90b6-cb3fc9c18b23,1605.27,2023-08-12 01:51:41,"Carr, Smith and Pace",Food,0
+ef4462ba-b9b9-4152-a8fc-2588f89729e7,3373.99,2023-07-01 19:37:05,Ford-Miller,Tech,0
+5d97fbd4-3e16-4170-a4da-d6730363c14c,1434.72,2023-11-08 13:08:39,"Doyle, Hudson and Lewis",Health,0
+9d523920-6a46-477a-8a6e-c1eb5a6c81ce,3947.01,2023-08-18 12:48:51,Andrews-Armstrong,Travel,0
+e6876049-a8ce-46dc-ae31-8dd7514dde48,4486.46,2023-02-14 17:46:22,Richard PLC,Tech,0
+37128c7f-8360-4478-8b4c-24e3b14e3750,2497.91,2023-01-27 07:52:23,"Carr, Ayala and Watts",Travel,0
+f814fba1-54c7-4b25-97d1-ec54e68a8587,215.86,2023-04-09 20:39:05,Schmidt-Lloyd,Travel,0
+ef4caae3-62d2-4050-8d5c-dfb22fbc54bc,1446.18,2023-02-01 05:04:01,Bridges-Petty,Travel,0
+09b39166-cd4e-4517-93c1-e13b2cf41a48,471.44,2023-07-28 10:27:52,"Moore, Mendoza and Rivera",Tech,0
+7a536886-72fa-46af-b5d4-f75f03e9dc8e,3402.23,2023-09-26 08:17:34,"Mcdonald, Perkins and Monroe",Food,0
+28aaca60-23dc-4fab-bffc-c355757ebb96,2959.66,2023-12-26 23:07:28,Taylor-Lopez,Food,0
+63ab2da8-8e5e-462d-a050-e28280c0f218,4365.89,2023-01-02 11:25:44,"Ortiz, Cook and Collier",Travel,0
+a599be95-589f-4f1e-8a44-8aa553d1f8fc,3577.21,2023-07-24 23:32:03,"Stuart, Ellis and Collins",Tech,0
+4bcf5172-1219-4fc4-be38-b0d93263ab85,4365.24,2023-06-17 05:30:23,Gregory-Wong,Food,0
+4372075f-eda5-4048-bf02-41ce99cb89d7,4606.17,2023-07-30 01:46:06,"Butler, Williams and Burns",Clothing,0
+20f61d7d-de28-48df-be70-21ea7e7452a1,4896.11,2023-03-26 00:28:40,Jones-Armstrong,Clothing,0
+d16e02ee-a1ef-460b-a0c4-4a90df72852c,2749.8,2023-06-04 05:28:48,"Skinner, Norris and Hood",Tech,0
+07c0f990-c55a-42eb-835a-439e451f1c69,440.46,2023-01-25 03:04:38,"Hart, Martinez and Smith",Food,0
+154ed581-cc23-4f95-8194-db49b2960ea2,3004.92,2023-04-29 21:03:27,"Shah, Wilson and Walker",Travel,0
+21af2432-03e7-48e1-bd7f-2ec2a22ddd81,188.0,2023-01-27 22:10:12,Washington PLC,Health,0
+61287ee2-d402-41a7-a287-c01e3b8ecd38,4154.39,2023-05-05 10:01:43,Rice-Kim,Travel,0
+db0254be-5218-45bc-bf19-df760cb30577,2226.41,2023-02-14 00:41:32,"Lang, Oneill and Wolf",Travel,0
+6a6840f2-9cd8-4ac6-9284-d3b0e73bdb0e,2713.12,2023-11-09 09:42:58,Morales and Sons,Food,0
+6b45f0de-b60f-4d06-8b32-4249ac1560e0,956.96,2023-05-28 14:42:02,Walker-Cherry,Clothing,0
+41394ce9-3fa5-4519-808a-866586aad749,1936.24,2023-07-01 18:56:02,"Brown, Hunt and Mcclure",Tech,0
+6990b719-a73b-48e8-b9aa-afa014166bc0,568.37,2023-01-30 20:04:09,Willis LLC,Travel,0
+414ad4fb-51ac-498f-acf6-81de6aaea265,4333.92,2023-03-05 02:22:01,Nunez Inc,Travel,0
+f2f12aa8-8311-48c9-99a3-bcb239701362,4271.32,2023-06-02 06:44:21,Ward LLC,Health,0
+3b1bd201-bf28-49f1-8c42-a9013c167f4e,344.06,2023-11-21 12:28:27,"Bennett, Green and Gould",Food,0
+5e994aeb-a18b-41e6-9789-4cbcdd5fe49a,3672.06,2023-04-27 14:55:47,Cabrera Group,Health,0
+a0e2f4f1-50e8-4939-a395-8852b5971a9b,4371.45,2023-08-24 20:04:53,Robertson-Flores,Food,0
+4a65db9e-a456-4ad4-b1c3-de5ba4519110,889.13,2023-09-09 11:53:50,Mcbride Ltd,Clothing,0
+a978521b-0c28-450c-bfa6-e1d75fecad30,2510.74,2023-06-03 09:10:17,Hall-Johnson,Health,0
+5eccd31e-550e-42d1-bf1e-439dc851fe14,3378.59,2023-05-16 02:10:38,"Fitzgerald, Adams and Marshall",Tech,0
+3091bb1b-0a9b-465f-ac43-9e504bbd5d5e,4708.75,2023-07-05 02:09:38,Franklin and Sons,Travel,0
+c8394b93-38a5-4042-8d86-345a04ff0b0a,2223.63,2023-07-03 19:17:23,Daniel PLC,Clothing,0
+d8144a22-76b4-4d71-bfeb-87fa8055df1c,1267.98,2023-01-21 10:44:59,Wong-Warren,Tech,0
+ade551a8-c1b3-4d66-9913-d2d4667d5c38,1171.69,2023-03-18 00:42:05,"Nelson, Henry and Hunt",Food,0
+3a81f537-21a3-46b3-a46c-732cf1f7a739,374.24,2023-03-31 15:05:44,Medina-King,Clothing,0
+0fc9180a-b018-4558-b9be-66a19a9c513f,4623.12,2023-09-02 20:32:38,Taylor Group,Tech,0
+8fca2a95-36c6-4848-859d-6cd0f0235add,1595.01,2023-10-25 06:10:13,Zhang-Hall,Clothing,0
+597fc16d-34ec-4bbd-ba70-1b9488bcb5ac,2652.52,2023-12-11 08:19:28,Stone-Zamora,Travel,0
+ea7432eb-5428-408c-a282-25d60e7523f7,3281.53,2023-04-06 11:13:32,Winters-Taylor,Health,0
+dbe9780e-c89f-4f91-bfd0-ac6fb000b8d8,764.6,2023-08-14 07:17:25,Sherman PLC,Travel,0
+68f2a314-8574-4e70-beb6-3ff7b299907f,254.09,2023-12-08 18:11:31,Shaffer PLC,Food,0
+7ba8697e-5dce-47b8-84f3-db85af28611d,3754.31,2023-06-30 07:42:27,Walker-Finley,Clothing,0
+920268ac-e8c2-45a8-bec3-567f0cfba28e,3164.54,2023-06-29 23:19:46,Barr-Smith,Travel,0
+818ac215-b5ae-40a8-bbe2-e21488e2c37a,4916.29,2023-04-02 22:28:54,"Ochoa, Hill and Smith",Travel,0
+a1cb3966-b8f3-4ce0-8e7c-f41ceb8f8957,3413.56,2023-08-19 21:45:39,"Mcdonald, Johnson and Flores",Clothing,0
+452c383f-7a07-4e12-ab23-e6f1cbca2cb6,1515.59,2023-12-13 17:53:46,Davis LLC,Health,0
+41969726-c1db-4ad9-b016-329cf8acf286,459.41,2023-01-02 11:33:07,Huffman and Sons,Health,0
+14caaf8d-735a-45e3-89fd-ff73aeaa2314,3177.95,2023-12-28 02:03:28,Foster-Mata,Tech,0
+2ccbd7db-683f-44c6-9abf-84b5e21967aa,1483.99,2023-06-13 05:00:36,Turner-Wilson,Food,0
+eb9d661e-2341-411c-ae25-9ba1a92961cd,1260.5,2023-12-08 11:44:34,"Jacobs, Collins and Harris",Clothing,0
+a7ca40ba-2a01-4d6f-b8c1-51b5371b549c,3617.33,2023-06-03 10:31:49,Scott-Davis,Clothing,0
+a42a8dc6-5a98-4534-ae12-12d6b736851a,2858.1,2023-10-25 02:02:12,Carroll-Robles,Clothing,0
+0bcfa502-97ff-4c9d-98c3-4a4b487e5c9d,976.75,2023-01-14 07:25:59,Foster-Payne,Travel,0
+22c0d67a-cf75-408f-9e8c-109abaeacd45,4917.24,2023-12-27 11:34:48,"Simmons, Patton and Bridges",Clothing,0
+c16f7e48-c4b4-4b9a-99e1-345e1a5342e0,4669.82,2023-05-08 12:19:27,Morris PLC,Tech,0
+029228fd-111c-472b-8030-29f27dbe2fc4,221.21,2023-07-29 12:43:22,Daniels Group,Clothing,0
+5ef07591-f6df-48a8-892c-58dab6c38e87,3505.07,2023-08-28 02:28:33,Woods and Sons,Food,0
+b1fae1e9-555b-44e7-9320-d7f1238692b2,2924.45,2023-09-27 04:20:13,"Acevedo, Odonnell and Walton",Health,0
+78afebfb-5dd0-47e4-b566-ea4dc413c60b,2472.59,2023-02-21 08:40:08,Jones Ltd,Tech,0
+0ca7cfa4-8a7b-49e1-ab64-a23958d58eab,1805.7,2023-03-18 06:15:19,"Estrada, Torres and Copeland",Health,0
+1be403b9-bb58-40bb-ade8-954e74fd16bf,2127.17,2023-03-21 16:18:55,Becker PLC,Travel,0
+cb863091-40f1-420a-bbcc-cccf55f5aba6,286.55,2023-05-19 11:49:56,Curry Inc,Travel,0
+2f45615c-3e88-4324-9956-8f962e55f3b7,2785.78,2023-08-10 02:41:26,"Johnson, Torres and Jones",Travel,0
+fd804c21-8d7f-4ec1-9c30-939e51259dae,2001.66,2023-05-03 23:11:12,"Reynolds, Hamilton and Allison",Health,0
+1e5364e5-2e71-425f-9f54-2812e5ebfebf,3121.2,2023-12-18 19:48:47,"Franklin, Hall and Wood",Clothing,0
+1cddf56c-1042-4ff4-b0ae-ce2d07568e81,3500.85,2023-06-12 07:47:00,Taylor-Cruz,Tech,0
+1090d415-c9f0-4baa-a487-ff1a92af6df7,398.39,2023-03-27 06:49:28,"Baker, Baker and Swanson",Travel,0
+1cce72d6-039e-4dae-861a-df551ffa471f,2718.52,2023-08-24 12:00:18,Maxwell Group,Health,0
+3d2d7e74-08e5-451c-9635-a59bc5e6e996,1933.81,2023-09-19 02:09:57,Reed Inc,Food,0
+bb6896c7-c487-4699-b06b-55cb2c0b40d7,16.6,2023-01-30 10:44:14,Smith-Atkins,Tech,0
+dae7b1b9-7b9f-4605-af28-aedf73c25418,901.79,2023-08-03 06:18:38,Graham-Matthews,Food,0
+69eccecc-6439-4226-bf08-8e9b191da133,3687.09,2023-05-08 16:01:27,"Stafford, Adams and Harris",Health,0
+e49f3bf0-bb7f-4b95-83c9-56f10c43fada,3475.19,2023-06-08 22:44:35,Wolf Ltd,Clothing,0
+64b0a264-f2b3-4e69-975d-27fac28a5208,1349.56,2023-10-29 19:48:35,Harris and Sons,Food,1
+49e850eb-a485-4da2-b26f-2e26071d11bc,1802.92,2023-02-28 21:04:42,Ball PLC,Travel,0
+95bb8f05-0666-4658-8368-40a3e97b2d7d,2915.39,2023-05-16 03:42:13,Lindsey-Morales,Travel,0
+9cf0e8e5-2c22-4686-ba6c-4f3fc0bc0843,4384.74,2023-04-30 13:39:43,James-Russell,Tech,1
+55e6a170-1a8e-458c-b460-40d729dd4ca8,3216.43,2023-12-02 13:47:05,Patel-Ferguson,Tech,0
+77bf6eb9-e932-4467-b30c-a1256cb57a45,419.34,2023-12-05 09:03:15,Hunt and Sons,Food,0
+0f360a43-bdb9-4a19-ac99-6928545f81d6,4383.06,2023-10-14 20:15:44,"Jones, Wilkinson and Conner",Travel,0
+8bb5c8b6-df29-4127-8e45-037abd353fbf,2626.62,2023-08-08 01:02:19,"Maddox, Guzman and Cross",Tech,0
+ceff9b7b-d462-4862-8e6a-5f7def4075eb,235.75,2023-06-21 06:36:35,"Jones, King and Jenkins",Travel,0
+db221828-78dd-4925-a56f-85078254a860,3586.99,2023-06-12 05:09:13,"Mitchell, Jackson and Watkins",Health,0
+5b981bbf-b4be-4e32-b27e-db2d179c82ac,596.12,2023-01-21 06:13:09,"Cox, Fitzgerald and Wong",Travel,0
+b9717b6f-6246-4eb4-85cc-2f5d9429f78f,124.79,2023-11-27 02:05:15,"Smith, Taylor and Lam",Clothing,0
+8abdd7d8-2eb2-4819-b2da-54af77a4b2b9,3978.24,2023-04-25 01:50:45,Oconnell-Roy,Travel,0
+21c65fbc-795c-4b4a-8da2-85d68c047a7c,1581.95,2023-11-20 20:58:18,Pugh-Wagner,Clothing,0
+6099414a-8995-4552-b196-0e0a29334141,735.13,2023-04-28 00:24:38,"Mercado, Campbell and Johnson",Health,0
+015be790-0c20-48f5-bc70-fccd9b0d6e4e,4992.12,2023-05-14 09:22:43,Yang PLC,Tech,1
+88dcf76c-3d75-48a2-9555-2938c88950d6,3954.98,2023-12-25 18:36:21,Montgomery-Williams,Health,0
+f755f255-1c5d-4f51-98c7-6a4820e8914a,4424.61,2023-04-21 12:55:08,Pena-Mitchell,Travel,0
+1443dbda-0979-40e6-8d5b-39af1d338705,1348.58,2023-05-01 04:42:38,"Smith, Parker and Curry",Health,0
+bf8a5b91-400e-4ec5-828c-98db5959e2b6,3952.14,2023-04-13 23:33:21,Davidson Inc,Food,0
+d58fddb5-2414-4a15-b0ef-d485a37194c4,3613.31,2023-10-07 01:13:59,Sexton-Thompson,Food,0
+d32797da-3c46-44f7-98ee-13cff1d74c73,3286.54,2023-09-01 06:13:16,Schultz and Sons,Food,0
+7f5fc364-72a3-4daa-8e5e-7067c133842c,4353.05,2023-03-21 13:13:54,Marshall-Moore,Clothing,0
+0819a114-9571-43c0-ace8-3f83ba7736a8,267.77,2023-08-13 18:34:24,"Graham, Wiggins and Ramos",Tech,0
+1f2a24b7-54ae-42f7-ad09-7d6c8d0a5576,7.01,2023-07-01 20:30:59,Edwards PLC,Travel,0
+26d45851-1bf2-47c3-8c73-825934c91216,2535.13,2023-10-25 16:11:54,Higgins LLC,Clothing,0
+76d07f26-0b7e-4a49-8140-8733d2122600,3053.51,2023-07-28 04:57:39,"Cantu, Phillips and Hood",Travel,1
+f233e819-4b69-4334-af91-347bed8a7379,3771.79,2023-10-15 14:07:43,Esparza-Mcdonald,Tech,0
+cb2be80d-010c-4258-880c-7324f73b1534,4258.38,2023-05-21 01:03:09,Thompson-Collins,Travel,0
+d845d046-feac-42a5-b186-42dd76173369,1999.24,2023-06-19 17:22:18,"Sanchez, Schmidt and Rogers",Tech,0
+c7ba4998-1a48-4f34-ac7e-5966466d0af5,1627.26,2023-11-27 22:43:26,Richardson Inc,Tech,1
+29314620-1b5a-4a34-a24a-ab245e00033b,2525.26,2023-09-07 02:25:58,"Jackson, Carroll and Hendrix",Tech,0
+cb957afc-d839-4afa-bc2b-03669df8d921,4000.33,2023-04-01 01:15:30,"Griffith, Graham and Martin",Health,0
+0e116418-712a-4874-beca-b6f63adb117a,4892.93,2023-06-28 07:17:12,"Mckay, Chapman and Berry",Clothing,0
+02db6b90-f470-4bf4-9260-e58096ab993c,4102.35,2023-03-30 00:45:53,"Waters, Gallegos and Hayes",Tech,0
+28c60f61-c74f-4daf-8e5a-9c6d23767b2f,1756.83,2023-10-06 06:52:11,"Martin, Newman and Delgado",Clothing,0
+c0611fa6-80ea-40bf-b62e-85e7dc963572,1708.09,2023-03-20 08:27:31,Holland-Snyder,Health,0
+d822fb67-1576-4df5-b55e-3b04606043c1,1787.79,2023-01-18 11:40:58,"Harvey, Lowery and Scott",Food,0
+4ef4aca9-e0a4-4bf0-9638-f3d1f44369ad,956.46,2023-12-30 18:30:15,Gutierrez and Sons,Health,0
+a7b63e32-39b4-479a-b156-4268e8ec4d66,3837.77,2023-08-17 19:48:06,Griffith LLC,Tech,0
+f5971bdb-32e0-4bfe-bd91-fa5d69a5619d,795.55,2023-11-26 09:50:50,Green LLC,Travel,0
+23c3c610-c1cd-4ef1-bbb1-0fcad2f85acf,1598.6,2023-12-14 00:14:47,Ramirez Ltd,Travel,0
+923bea9c-257d-4530-94bd-2056251913ee,1021.57,2023-12-17 17:50:11,Chaney Group,Tech,0
+d2bdd716-0929-47a2-8885-b2ed6c69b480,2994.98,2023-01-17 12:57:48,"Hurley, Kennedy and Jordan",Clothing,0
+5f1242ef-79b6-468d-a31a-caa101566223,4384.33,2023-07-28 05:49:09,Hunt-Duncan,Food,0
+3a596a5e-a170-47b5-b47f-a69471461074,3640.09,2023-06-05 06:30:29,Kennedy PLC,Travel,0
+3942ae47-00ba-4bfd-89d9-6f36fb0f872d,3490.65,2023-01-21 13:32:37,Arnold and Sons,Clothing,0
+30c7987e-e684-4515-8919-cdacfe676218,1846.88,2023-04-21 03:47:27,Castillo-Barnett,Health,0
+b54c0368-3980-45ff-9c31-bca6595805f3,2972.59,2023-05-22 13:33:27,"Harper, Jones and Carter",Food,0
+46a7a4d1-70c7-4eba-a829-e3fff716d9b3,3221.79,2023-09-15 17:01:43,Flores-Schmitt,Food,0
+2b1d0ed8-d518-4f6d-819d-a3275f683fef,4885.5,2023-10-12 04:56:37,Anderson Group,Travel,0
+7ddbf61c-24d7-4d16-b89a-eda80bc82cd7,3153.92,2023-10-27 10:43:59,Lawrence-Rodriguez,Food,0
+51e7dd3b-6642-401c-a844-14f36f02246f,2347.48,2023-03-02 05:42:31,"Fields, Davis and Smith",Clothing,0
+29d4e3dc-3757-4b6b-afed-e6c2e2d50997,4713.62,2023-04-20 02:10:29,Jordan and Sons,Clothing,0
+2d1aef51-ec71-47aa-89fa-b613b8aabc39,1703.77,2023-05-25 09:39:20,"Hall, Harrison and Ashley",Health,0
+57e418cf-e706-4aa2-a43f-63565adfc304,3235.98,2023-04-04 11:51:30,Wright LLC,Clothing,0
+f7b2a47b-211a-45ea-a90b-3ff3f599c16e,1977.93,2023-05-15 04:26:59,Foster-Brown,Travel,0
+dc8229a9-7851-4d34-8ff2-8f047d5437de,2688.44,2023-07-30 17:37:42,Parks-Christensen,Health,0
+596a4553-4416-4d90-af7c-1cc53643d14a,4759.21,2023-07-14 06:03:04,Medina Inc,Health,0
+2a710020-9f44-4256-b8aa-019480fadca6,1970.69,2023-08-16 08:32:48,Johnson Inc,Tech,0
+47d079ae-c2b9-4035-a450-395b2a935d31,4123.32,2023-09-30 22:39:43,"Sullivan, Howell and Lowe",Food,0
+8d318610-9d46-4322-8453-2868e23e7b8e,4896.92,2023-12-31 15:48:38,Jones-Gray,Travel,0
+58eb90ae-b22e-4d4a-9bd2-127e93e19f27,1458.49,2023-08-06 02:28:31,"Gordon, Perry and Johnson",Health,0
+ded59d0d-ff21-4290-87ea-790daa7d1abe,3549.96,2023-03-09 20:15:25,Miles-Bailey,Tech,0
+ccc57c0e-71d2-4d63-830c-1057f92e5f5d,2275.68,2023-03-20 02:25:53,"Gonzalez, Torres and Newton",Food,0
+9d617acb-bb97-4742-acdc-daccee1b7eb3,1326.28,2023-01-03 12:37:51,"Barrett, Hickman and Johnson",Tech,0
+c9b6f6b4-327f-43d5-a042-fcd6b618640b,4260.36,2023-07-18 15:37:19,"Anderson, Lee and Jones",Food,0
+d6efe122-19c1-46de-afdd-abcf25f4a0e7,4554.14,2023-03-26 17:17:18,Drake-Watts,Tech,0
+e765a3eb-a037-41f1-816b-dd7a410ee82d,205.1,2023-09-16 20:57:09,Lozano Group,Food,0
+4cdbfe7c-484f-4bbd-a833-8d716a95ed1c,626.55,2023-08-01 13:21:35,Mcclain-Dean,Food,0
+f66f26ec-89c2-4f0a-a95f-a320a99bd381,3823.25,2023-09-24 11:05:22,Solis and Sons,Health,0
+61e84c63-6cb5-4dc0-9181-c150e64cd10a,4767.53,2023-10-20 00:12:33,Collins LLC,Clothing,0
+db8ad523-6147-46c1-bac8-25e3908028e6,4788.74,2023-06-19 06:40:31,Ellis-Harrington,Tech,0
+08b633b2-7859-4e61-99fb-057bd1e56055,3714.57,2023-03-09 09:25:23,"Hale, Turner and Martinez",Tech,0
+4e4a2632-0e55-470a-a886-527b87c2b121,1212.93,2023-03-31 14:48:34,Smith-Duncan,Tech,0
+560f3e74-94a1-4ce6-b251-74a6aeeea7ba,1824.8,2023-03-17 16:29:00,Smith Ltd,Tech,0
+0a0e53f6-fefd-4a63-bf22-7ef3646161aa,1732.57,2023-03-14 18:40:33,Martinez Inc,Food,0
+278e67a7-b54d-44b9-99c9-f9c665bd3ac1,3149.88,2023-07-23 19:26:29,"Ortega, Burnett and Smith",Tech,0
+6e32d2cc-7b83-4c23-96f9-daba7b56e305,4730.78,2023-10-24 14:16:50,"Coleman, Rubio and Brown",Tech,0
+475327c9-a181-42f7-8cc0-7356206cb5ab,3816.02,2023-10-26 13:50:07,Whitehead PLC,Clothing,0
+7e3eec71-2866-4837-9515-5c0ed6f96b1c,1006.7,2023-06-25 09:38:38,Hamilton Inc,Tech,0
+e6c2187e-c3e8-4cd6-ab95-6a4aec58a693,4297.03,2023-09-30 09:43:08,Tyler-Bridges,Travel,0
+05450751-f7fa-4e20-8d33-6c4698675fad,3104.83,2023-06-07 13:04:15,"Taylor, Martinez and Smith",Tech,0
+ff60cfcb-6831-4c6a-88c2-ad11c9b38fab,2172.49,2023-08-20 19:15:48,Weaver-Ramirez,Health,0
+cfcd6c5b-dc7e-4f97-8ce9-38844bacc725,1495.83,2023-01-21 20:56:24,Rogers Inc,Tech,0
+5b8f6366-2eb7-4ff1-aff0-d3ed8a713a22,2063.41,2023-07-21 07:56:05,Miranda-Anderson,Health,0
+eb0a5456-a450-4e92-b2e1-298d073b2040,4352.99,2023-01-09 12:18:04,Harris Ltd,Health,0
+96cbc233-648b-4851-97d9-b33b2e591e83,4131.66,2023-05-06 16:02:58,Wall Ltd,Health,0
+1b586ee4-265b-4f3a-9d16-bfa631d2ca57,1832.04,2023-07-19 14:20:59,"Woods, Lawrence and Gibson",Tech,0
+85148ad4-0430-49b0-955d-c2440800b5f0,3398.14,2023-11-05 23:50:53,Aguilar-Garcia,Clothing,0
+b371664e-db04-4b7c-92f1-96df293a2e88,3213.17,2023-11-17 11:38:22,Stevens LLC,Food,1
+41fad542-ec53-470b-b581-1b540b6dbad9,1526.66,2023-01-05 17:54:10,Johnson Ltd,Clothing,0
+3df893bb-8006-4198-8f8e-aff7fe398a1e,4301.36,2023-12-31 06:16:57,King Group,Travel,0
+ba4d1ed4-b9a7-4f9f-902a-f95f65eb4ad8,2050.99,2023-08-20 02:34:54,Lawson Group,Tech,0
+996e179e-4d4e-41d5-975d-5f957b210220,3127.42,2023-05-18 09:52:04,"Brown, Russell and Garcia",Travel,0
+953f484c-5579-4919-b0e5-bcd8e7f523fb,981.93,2023-06-13 20:52:49,"Kirby, Lopez and Salas",Food,0
+43a88e94-616c-4bb4-923b-54aee1f4d2ad,450.14,2023-05-06 20:02:26,"Martinez, Williams and Lane",Tech,0
+bb96fa91-64f4-436a-b4e1-bc3932f7185b,2896.12,2023-12-09 01:37:58,Salas PLC,Tech,0
+500a3b87-328a-402e-85a0-87e651342dac,2157.15,2023-10-12 22:12:37,Larson-Robles,Tech,0
+db7bfbe0-9518-4549-858d-869f90be1580,3620.47,2023-04-11 10:48:24,"Collins, Johnson and Franklin",Travel,0
+ced445ea-6ee9-44bc-9751-ac216992bbb9,47.56,2023-06-27 01:40:38,"Ruiz, Carlson and Anderson",Clothing,0
+33e02926-a434-4912-a47b-664f25eb319c,2363.43,2023-12-15 06:16:31,Greene-Williams,Food,0
+7a8ac4fd-b807-4b47-a3fe-4e14795fb4de,4236.77,2023-01-03 16:22:32,Parker-Anderson,Food,1
+ca409c7a-e03a-4ac3-9946-0cfa3dfac594,2579.57,2023-11-14 00:40:47,Anthony-Barnes,Tech,0
+fdd44137-6438-46bf-95d0-50d3fe8b3d64,1479.35,2023-03-29 23:38:51,"Martinez, Smith and Johnston",Travel,0
+dde99013-7eee-4edd-bb7d-22b24888d439,3166.62,2023-05-16 05:34:37,Barker Inc,Clothing,0
+2934ffd4-514d-4a68-a744-d61c9a262e91,3050.44,2023-11-28 21:55:40,Salinas-Cruz,Health,0
+a3616b12-c5dc-4f82-bb67-ae66aa9d1de6,2172.86,2023-08-22 15:14:34,Rodriguez-Davis,Health,0
+7da313f1-ee9c-4d2b-9991-9f85df96f80d,3026.75,2023-01-13 00:46:40,Gonzales Group,Health,0
+2fdee7d7-5b04-41a7-87db-ab72e8c3c949,3490.79,2023-10-02 08:59:31,"Martin, Johnson and Cruz",Clothing,0
+1616da33-d61a-4c25-be6b-bdcdd4e401d5,1628.67,2023-06-25 15:20:24,Griffith LLC,Clothing,0
+fbcd0d40-4232-4cb0-aa24-2cbc9741266b,814.94,2023-05-07 20:13:39,"Carter, Gutierrez and Huang",Tech,0
+08e6c0e0-5204-47e8-92d2-75d790f18981,2199.4,2023-08-21 22:35:00,"Cochran, Roy and Kelley",Health,1
+93237150-7a18-4407-a1cb-23e25d15451d,3512.32,2023-03-15 02:53:06,Lewis-Hernandez,Clothing,0
+63d48ea2-e83e-4841-af79-270b1d7219b0,1375.93,2023-07-26 17:07:21,"Hill, Taylor and Gallagher",Travel,0
+b822ecca-2d23-4f92-95ce-31c1ef2bc8d0,4487.13,2023-10-18 21:35:26,"Gill, Norman and Keller",Tech,0
+68cbd105-6cbd-48bb-a3c8-f639a03824b1,1033.07,2023-04-03 19:47:22,Evans and Sons,Clothing,0
+7fc3d674-c950-474c-b619-2bf9c4bee4f2,676.27,2023-12-05 16:39:49,"Alvarado, Horton and Osborne",Tech,0
+294d17a6-9c7c-46f6-818a-a877536f3840,1723.9,2023-07-07 05:13:13,Powell and Sons,Tech,0
+1f633cf8-5842-48be-ab6e-f0ef09f408a5,2408.17,2023-07-31 22:57:21,Sullivan Group,Tech,0
+d2c3085a-6909-42aa-a626-9612d745d2eb,2402.42,2023-11-30 11:44:38,Wallace Group,Clothing,0
+9590cb74-a1b0-4ee8-8b30-a5d10d1dada1,44.9,2023-11-15 14:32:37,Henderson Inc,Tech,0
+47c54719-952d-47eb-b93f-acb362e71906,134.89,2023-12-06 03:51:30,"Casey, Johnson and Brock",Clothing,0
+81886c1a-456d-4116-b369-200f95dde51c,4515.95,2023-02-27 06:33:11,Robinson-Shelton,Clothing,0
+ede77fcf-bb89-41f8-9361-819a913a6d6a,141.86,2023-02-20 18:24:02,Baker PLC,Clothing,0
+74831ff1-4660-41f5-8877-7d6420f1183b,1416.78,2023-06-05 02:54:03,Barton-Hill,Travel,0
+db5eaea3-e464-4de1-86fd-8b797bd62bb7,4811.19,2023-01-08 18:52:10,Wong and Sons,Clothing,0
+9a2ad031-2a98-4912-823e-b99b21a66f56,1723.84,2023-10-11 14:46:58,"Murray, Berry and Figueroa",Tech,0
+5752a34d-1be6-4e13-847a-0b7a7abe39c3,3074.18,2023-09-13 03:44:10,Lynn-Buchanan,Clothing,0
+104779e2-282e-4fe2-8b49-18d5abfac7ea,1207.76,2023-11-12 11:46:23,Young-Ross,Clothing,0
+fa429d9e-4c1c-4a07-94e4-99ddb83ea28c,4679.14,2023-03-21 17:24:42,Obrien-Collins,Food,0
+a39695ae-42b5-4339-9977-d8af8f35961a,1207.34,2023-02-01 01:49:57,Jacobs and Sons,Clothing,0
+bbad7b3d-9060-489a-8bbd-8b8e436390fe,1582.34,2023-08-18 21:38:36,"Alvarez, Blake and Williams",Tech,0
+5676a2d1-7b71-4b0d-86ac-8640b2719b25,1184.44,2023-07-10 10:16:48,"Weaver, Dennis and Roy",Clothing,0
+f714129d-1895-4e4e-9ae2-ff52d19956b2,1535.04,2023-09-11 06:06:01,"Miller, Garrett and Sanchez",Travel,0
+745359d2-72ce-4f02-94a6-fbdba8c9ba82,4415.14,2023-10-08 09:03:24,Yang-Gordon,Health,0
+29d23ea5-b6ee-410a-9bf0-ec0b910de6b0,752.21,2023-02-15 20:30:49,Torres-Stephenson,Food,0
+08678f09-a0d8-4d48-a0ec-b7c7513310dd,4921.82,2023-06-21 23:47:23,Murray PLC,Clothing,0
+3ffbca11-a515-48e7-a967-56c375fa3cae,1572.38,2023-04-09 01:39:31,Perez LLC,Clothing,0
+d48ef10d-2534-471b-aa78-f60f3d0cac08,4711.07,2023-02-15 23:00:05,Wilcox-Frey,Food,0
+68d380f4-1242-4788-88bf-8598e2e96f0e,2279.91,2023-03-14 03:45:47,"Mccoy, Jackson and Morris",Clothing,0
+99db024e-2a89-4eab-a292-bc646978ca23,1617.67,2023-06-25 21:24:15,Davis-Garcia,Health,0
+e5e8287d-22d8-4f7c-adc2-2a1acac76399,3212.61,2023-07-19 18:31:52,Coleman-Cook,Clothing,0
+85edffc3-2567-4024-9778-e967f53a6a61,790.86,2023-11-14 18:11:14,"Crane, Jones and King",Health,0
+ee8a0910-fa84-4418-a221-a029fe9d303d,3166.58,2023-01-28 02:29:58,Cunningham-Thomas,Health,0
+244ef699-11c9-4846-bc54-467a1f77931f,894.06,2023-11-08 12:45:56,"Weiss, Jones and Novak",Clothing,0
+5bc155dd-374b-4aea-93ef-1241f18e70f0,4564.24,2023-04-08 17:59:20,"Morse, Meza and Torres",Health,0
+7669b732-98d4-415f-bf66-1e457938fa0e,3804.57,2023-02-19 01:31:25,Pearson Group,Tech,0
+f06ead6c-49f0-4aad-a746-64753a2f783c,2236.57,2023-11-18 22:18:16,Acosta LLC,Food,0
+88319cd7-990b-4b96-b916-abfe1bbe806f,4645.46,2023-04-16 01:33:49,Cohen-Mayo,Travel,0
+4401785f-fd04-49fd-85c2-be62886659ac,2508.02,2023-09-01 12:24:26,"Brown, Turner and Hardy",Health,0
+22d83753-c522-409b-a615-c1d1db2a8903,173.81,2023-09-09 16:59:20,Carter-Martinez,Tech,0
+7c283ce7-682b-4b0e-b511-6b9671667c10,4707.78,2023-06-09 21:05:55,"Mccarthy, Hill and Trevino",Food,0
+59548c09-25e4-41ce-8c51-dc0af105a6e2,4689.11,2023-11-23 10:57:35,Turner and Sons,Food,0
+5b48761f-64a2-4f8e-827d-5a151ace4e17,454.62,2023-10-26 23:50:44,"Carlson, Kelly and Anderson",Health,0
+0284fd92-3fa8-44c4-a742-2230c00c1d4c,1179.57,2023-05-18 04:51:19,Johnson-Perez,Health,0
+1cd7c75c-759e-48b4-b8c0-de1d96323a26,666.88,2023-03-13 09:47:58,Riley LLC,Health,0
+638ec354-0483-473e-a5e3-34ffbe5cef35,2307.91,2023-02-17 04:42:28,"Hardy, Rodriguez and Gutierrez",Tech,0
+649563d3-f9cf-4658-a808-acf4a6cb5a9f,246.65,2023-09-08 07:02:34,Martinez PLC,Food,0
+8ff68af1-cee4-4a4a-9ce5-0d3843e11fc1,510.21,2023-09-18 16:50:44,"Berry, Harris and Payne",Food,0
+bac1c4c2-be03-4b2e-a50b-3e91bf0d724f,2797.03,2023-03-16 05:10:15,Ortiz-Burgess,Clothing,0
+91b8ed1c-31de-4e1e-8e6b-b3fede054555,349.75,2023-05-12 07:59:06,Massey PLC,Travel,1
+655f70ff-6f89-49cc-a8e8-b16ebe60b372,4243.05,2023-11-22 09:03:22,Briggs-Peterson,Tech,0
+63e4f12c-bb88-4a96-a1f8-447310918615,2087.72,2023-02-04 00:00:54,Turner Ltd,Health,0
+d2bba27c-b812-4de5-9b23-520005a98e66,2413.67,2023-06-19 08:46:33,Hicks-Butler,Tech,0
+37ea18af-c788-420b-8919-668abc816def,2338.41,2023-03-23 04:47:02,Rios Inc,Food,0
+5ae9ca54-2e0c-454f-8d49-0db3c9208795,297.78,2023-07-24 00:20:00,"Flynn, Norman and Maldonado",Food,0
+3422d852-acea-42d5-aa90-c15565cea5b3,3130.79,2023-01-23 15:37:13,Webb and Sons,Tech,0
+6dfce73c-b569-4cdb-b9d6-6ed30b50c9e4,2585.17,2023-05-28 12:39:26,Brown Ltd,Clothing,0
+3d0799df-5c23-4a3e-8687-b5061d41d5a5,3406.98,2023-01-17 23:21:09,"Fuller, Richardson and Moore",Clothing,0
+ad5045f7-e7e3-4c9f-af18-f255414ef67d,1471.25,2023-06-16 11:07:24,Douglas-Marshall,Food,0
+b7dd87de-95b8-415a-a29e-9f1e3bc2eac4,640.2,2023-05-31 17:45:15,Coffey PLC,Health,0
+c9622e5f-1220-4827-a743-3e7c10e062b5,114.97,2023-12-22 16:37:27,Cox Group,Clothing,0
+f908ceb2-ddf4-4ec3-b4f0-5b0b98b297d2,245.0,2023-05-02 23:47:58,"Martinez, Anderson and Guerrero",Health,0
+edc3d59b-91b7-4745-82f0-c8f8de1298c7,1057.7,2023-09-16 07:05:06,Grant-Jordan,Travel,0
+0062d0cc-1cd3-4971-a888-a528917d313f,7.68,2023-08-30 16:53:58,"Weeks, Leonard and Russo",Tech,0
+1ae08d48-356b-4791-b174-177b5849d8b0,3069.63,2023-05-15 22:23:17,Simmons-Garcia,Food,0
+2d24679f-2e3b-4764-a54e-40812deccb1a,2247.11,2023-11-24 13:56:49,Schmitt Ltd,Health,0
+13d47159-7ae1-4231-ae19-d503b5b3ff89,3173.5,2023-04-25 06:02:49,"Branch, Sawyer and Nelson",Food,0
+0bcdf482-6fad-480a-9ca0-93c632f06515,39.38,2023-06-05 22:59:03,Mason PLC,Health,0
+f855b1a3-931f-4108-ab38-2124f2bc82ed,3865.17,2023-06-10 10:03:38,"Johnson, Miller and King",Tech,0
+21d6e579-83ac-45af-83a5-22ac4fe93f5a,64.4,2023-08-20 04:40:07,Brown-Smith,Health,0
+9dd512fa-9587-4279-a38f-e40cb6a769a1,616.61,2023-04-30 19:48:55,"Marquez, Garcia and Johns",Clothing,0
+4cc5dcf3-e6da-4ec8-aca1-b6a79fc58271,1518.93,2023-09-29 07:24:57,Ellison LLC,Health,0
+160e8c99-88fb-4d6f-86cd-ea83adee3e75,3845.33,2023-09-19 10:13:39,"Foster, Torres and Horton",Travel,0
+f38705c2-381d-4e75-a15c-32f3d91e267d,1804.0,2023-08-19 08:31:45,Moss-Acevedo,Tech,0
+805aaa08-1cda-4e37-b4e6-88cabbfa2985,4035.79,2023-01-24 18:00:41,"Rogers, Yates and Pearson",Clothing,0
+3939243f-4a56-4be4-b4dc-978f8d148bfa,4367.92,2023-04-16 12:58:22,"Salazar, Lyons and White",Clothing,0
+8c228881-155a-4851-a586-518fbd7e8bd2,1788.72,2023-08-25 06:47:50,"Cook, Moore and Fuller",Food,0
+a6f365ce-e91f-4c16-bb08-2ddfc773ad1f,2932.85,2023-11-13 00:50:51,Santos Group,Clothing,0
+f3c61b5c-bac0-45ef-8651-6f311a3770a3,3691.68,2023-01-02 12:12:08,Smith-Hahn,Travel,0
+37c87ce0-6664-4520-a895-09701701d717,4450.06,2023-10-13 11:53:47,Duncan-Burns,Health,0
+9d039c1f-8283-4b70-8685-665b70857aac,3519.22,2023-05-05 01:53:38,Ray-Boyer,Travel,0
+06387748-bf28-446c-9560-50f4de83c2be,2901.21,2023-11-22 22:31:05,Alvarado-Chapman,Food,0
+678976dc-9732-4256-b0b6-e4ff460a35d8,2977.27,2023-05-20 16:25:12,Harris Group,Food,0
+abf9494f-10cd-4ff3-ab0f-d7134ed48038,3910.61,2023-01-18 19:57:26,Davis Ltd,Tech,0
+320c8506-cc2f-4cb3-b2ba-d592d70bb2c6,3037.18,2023-02-01 15:19:00,"Goodman, Martin and Ramirez",Tech,0
+29ce7f5a-5827-46f0-8e41-a200592e40ef,4987.77,2023-04-16 19:27:08,Kemp LLC,Clothing,0
+ea3a0da2-fbaf-4c13-9ddb-01c1de4780e4,4886.12,2023-02-14 16:45:35,Flores Ltd,Health,0
+4ad3bc69-26a2-4533-adc3-3307050e1c06,2091.59,2023-09-10 05:14:18,Simmons Inc,Tech,0
+aa32df0d-e133-41e8-9136-8940e8836b23,3649.0,2023-09-05 11:55:28,Cox Inc,Tech,0
+952b14ff-e08e-48f5-8036-f500fdd40ad1,4416.1,2023-12-20 14:27:30,"Wiley, Bennett and Edwards",Tech,0
+7c0fbd10-261a-43c7-9ecd-1fe71faa8825,1613.21,2023-09-04 07:49:28,Welch-Fisher,Food,0
+4d2262d3-9d5b-4f9c-921e-70e59521b487,3113.14,2023-08-17 12:56:17,"Miller, Conrad and Deleon",Health,0
+50510d18-4d06-477d-90fc-0613672cb502,621.77,2023-01-05 23:58:12,Wood Ltd,Health,0
+d5825ff3-7199-4bad-9bfc-6ae248da1b61,980.81,2023-03-26 01:22:06,Dean PLC,Food,0
+ae0ebb2d-e37d-4482-b1dd-0476d2f820a5,2378.28,2023-11-05 10:21:00,Pierce-Green,Travel,1
+6adf2620-9a1e-43ed-beb7-1bc0eed159a8,1193.11,2023-11-11 16:44:13,Brown-Collins,Clothing,0
+07db64e7-e6d1-4270-b837-8f5108da28da,4254.46,2023-11-21 03:10:55,Dunn-Morales,Clothing,0
+d133166f-17d8-4a8f-a965-5d82515e0510,1743.74,2023-08-13 02:53:21,Allen-Martinez,Clothing,0
+78ea25ce-69a3-42b6-aa3c-84aafd158b2d,1124.11,2023-06-01 12:41:50,Webster-Foster,Clothing,0
+d865301b-c4fd-4ae9-8c4e-b18d6be4f91f,38.92,2023-12-02 05:54:35,Mendoza Inc,Food,0
+a5fa2251-3205-4df0-85a6-8d91436beda2,3854.36,2023-09-15 05:47:08,"Davenport, Carroll and Benitez",Tech,0
+c724fecf-daab-4c8e-9d11-5e4e67306ed4,1617.69,2023-07-16 16:09:44,Spencer Ltd,Clothing,0
+06a7fd81-eab3-48df-8698-01fb508e8be0,4570.45,2023-09-06 12:47:12,Phillips-Logan,Tech,0
+7215fd36-8b0d-4522-b1a3-120946a2ed01,2395.06,2023-03-03 21:01:28,"Leon, Rose and Pearson",Tech,0
+0305c9c4-2a48-4333-a4c4-5c4f959c1681,448.3,2023-07-20 03:57:52,"Wolf, Martin and Young",Tech,0
+b3b2d617-9b7c-4b03-a77c-cb88f1adfa06,664.17,2023-12-01 05:18:42,Williams Group,Travel,0
+744631ab-7d58-406e-8d79-e997aa7ab83f,3254.6,2023-05-01 10:55:17,Mack-Cline,Travel,0
+51d3e34e-39bc-4bd2-84a8-a4e17aeab455,705.2,2023-03-06 19:58:37,"Hurley, Vaughan and Roberts",Travel,0
+bab6bb32-9a5e-4054-b1b4-6d5201dc9479,2755.14,2023-02-15 13:48:56,Martinez PLC,Clothing,0
+3f21fdc8-6d7d-4784-b3bd-7f542d8e86df,42.39,2023-04-02 10:51:39,Mcguire-Walton,Health,0
+4e13435d-59a5-4510-bf4d-931f07f11ed3,436.15,2023-08-08 21:33:53,Johnson Ltd,Food,0
+ec253737-1d9d-40cc-ab9d-15fcdc1418b1,4506.31,2023-11-22 02:33:19,Walker-Brooks,Travel,0
+500668ad-d1f6-40be-9176-b44ca3977d84,3318.18,2023-07-05 13:52:12,"Morales, Wilcox and Wood",Clothing,0
+94c887bd-6d63-413e-882a-4395b2ed17aa,9.19,2023-10-14 07:24:13,Neal and Sons,Clothing,1
+ab76bcff-4470-42b0-b414-1a0eb048ec87,4941.18,2023-05-19 18:18:48,Patterson Ltd,Tech,0
+6ef9c869-5ea0-4747-9da8-b03b39e46172,541.54,2023-08-27 04:16:33,Turner-Simpson,Clothing,0
+82943077-b880-45a9-9f12-3df1967b3e86,765.69,2023-03-07 16:41:37,Anderson-Wood,Tech,1
+694822cd-f5d4-4c7d-b259-55c29127d327,883.93,2023-02-11 09:20:46,Haas-Watkins,Food,0
+e1482418-749d-4f07-ac04-a879e9f2a9af,1307.78,2023-12-11 12:23:25,Williams Inc,Travel,0
+06bc515f-8ab4-4134-a7bc-6fa03e8e5f7e,39.19,2023-02-06 06:13:12,Jackson Ltd,Food,0
+6879f9a2-027f-40f8-8390-094fbe4a118c,1747.67,2023-05-18 00:35:35,Lee-Reyes,Food,0
+5e5e0857-a123-40d3-a038-cbf9be087337,3616.35,2023-06-11 17:47:46,"Hale, Johnson and Graham",Food,0
+b30419b5-d910-4b7b-8d12-c60f0b09d592,790.71,2023-06-17 03:32:26,Murphy-Kennedy,Health,0
+f079072f-29e0-419a-9de9-2631f4bf3f50,434.73,2023-06-27 15:00:02,Mosley Ltd,Food,0
+a19b99a6-2e88-4ce5-9fc8-29cda96042d3,1352.83,2023-02-07 10:14:13,"Vance, White and Sullivan",Food,0
+87ea09c9-2acd-4462-a2e0-f2611a839cdd,188.45,2023-12-24 16:28:15,Evans PLC,Food,0
+df2229aa-4ce3-487d-81b4-5146cf7133d5,225.46,2023-02-27 23:09:09,Clark Inc,Food,0
+ecc5509f-6e01-42c6-a5f6-fcd68ccb3d44,1768.21,2023-04-20 04:59:16,"Rodriguez, Camacho and Hansen",Travel,0
+143e6497-e296-45fa-a3f8-d68dde359714,3218.16,2023-02-03 16:01:40,Freeman and Sons,Tech,0
+dfed03cf-1678-4706-912d-7c34e2846e90,4720.22,2023-03-06 04:15:34,Horn Ltd,Tech,0
+1acbee03-8fad-4882-804c-1a22aa31e7f2,2037.92,2023-04-24 03:02:37,Stewart-Johnson,Health,0
+9715c6ab-8f30-4f1b-a4e4-d108a2949a39,81.41,2023-07-20 20:30:53,Skinner-Clarke,Clothing,0
+b1f57a41-bfc3-4d18-90ca-67157a021dc0,1401.9,2023-03-26 01:44:31,Barker-Porter,Tech,0
+ff805589-0a31-4dc4-8d75-2f04a04cefb4,2320.59,2023-10-19 19:00:08,"Gordon, Carter and Diaz",Travel,0
+c7eb9b55-d6b2-4d5e-8705-a9478408ebee,880.5,2023-02-02 21:43:27,"Hale, Rowland and Morton",Food,0
+e89e8371-8e11-4efe-ba91-6b7d9a94fe1a,4291.4,2023-10-08 03:19:24,Lee and Sons,Health,0
+b4908af8-2037-463d-9ecb-c7879162a14e,4573.68,2023-01-15 22:38:28,"Barber, Burgess and Long",Clothing,0
+fb297da0-917c-46e3-971a-0e24533f50df,1253.55,2023-10-29 06:54:33,Perez-Brown,Food,0
+23bba037-d5b1-4f41-8a6e-09fe1e94cfa8,723.53,2023-03-15 08:53:16,Stark-Richardson,Clothing,0
+96bf2203-53d4-4d8a-865a-cca65f5bda7d,1533.4,2023-12-01 19:01:14,Hernandez Ltd,Clothing,0
+c3810417-b8dd-4a70-a895-249bfc8a62e2,1114.64,2023-10-22 17:32:36,"Elliott, Marks and Dawson",Health,0
+bf01e89d-3072-42a3-8485-433b70f265c0,4793.91,2023-05-16 05:10:07,"Mitchell, Griffin and Hernandez",Food,0
+a8f1cc5e-40ff-46dd-8bc9-954daf572dcb,2803.89,2023-08-13 13:20:25,Sanders-Chandler,Health,0
+424a0879-e170-446f-8ce5-d54f579748e5,139.93,2023-06-11 11:49:18,Johnson-Nielsen,Health,0
+0712207d-adf4-4b4f-b6ad-37330f64a214,2212.62,2023-10-01 12:51:01,"Mccoy, Hawkins and Bowman",Clothing,0
+0af1e21c-10bf-46c1-93fb-bddc7a1abd2a,4283.9,2023-11-27 15:36:36,Jennings-Lambert,Tech,0
+23020fb3-3681-44fa-895c-41a215a60698,2117.4,2023-06-05 13:41:34,"Wilson, Clarke and Schmidt",Food,0
+8a0ad6e7-a1e2-40d7-9f96-f582998c33a2,3488.23,2023-12-28 11:31:41,Walker-Harrison,Food,0
+6c9b256b-b192-425e-a8d6-442e1618e7be,4162.52,2023-11-07 12:10:46,"Graham, Rubio and Perry",Food,0
+b8d8f224-8b9d-401f-b70f-9d85c4ce6120,1138.7,2023-02-04 23:08:19,Alexander-Koch,Travel,0
+18392cbc-2904-4e5e-a8c6-136ed5457fea,2413.51,2023-10-25 23:17:01,Smith-Rodriguez,Health,0
+6e98664e-46de-407c-87bc-f788f83c16d8,1925.14,2023-12-23 05:14:00,Howard-Stanton,Health,0
+9f1f88d7-b83f-45dd-8ff6-199853ea796e,2273.29,2023-07-13 06:17:29,Gray-Smith,Health,0
+7f152df4-d886-4d20-ae3a-8279a8dea260,47.7,2023-02-18 05:28:01,Taylor-Johnson,Travel,0
+a94e866f-f8f7-4e45-bd88-e143c6ad829b,1317.84,2023-01-13 20:02:00,Wu Ltd,Travel,0
+0b9b7a9e-56f7-4e19-bcaa-e1a3a2a4659f,610.15,2023-03-13 20:12:24,Davis-Phillips,Health,0
+31fd4c2b-fc1d-4960-b750-e2bfc3efea14,2695.51,2023-09-14 18:22:11,Bradley-Rogers,Clothing,0
+1bad92cc-f750-4d7e-b884-8719e862aa61,4583.87,2023-03-22 14:04:03,Keller-Johnson,Food,1
+5ce735f7-6bb3-4b01-ae7d-291c618afa42,1201.75,2023-12-15 20:49:59,Payne-Wood,Clothing,0
+fa461cee-2ce1-43b8-8951-d383498b34e6,1727.37,2023-11-25 09:32:59,Dillon Group,Travel,0
+195e0a1f-9b08-4a63-bed1-49d6f01d7dc3,3417.92,2023-10-07 20:14:31,Rodriguez-Allen,Health,0
+15fc519f-33f0-4572-877b-1bba64023fc8,553.05,2023-09-09 01:23:20,Castro PLC,Clothing,0
+1f29714e-8b33-4b8d-83dd-b0d68006bb1c,1162.78,2023-10-04 20:59:01,"Mcgrath, Fox and Price",Tech,0
+c3a3f053-4275-49b7-a115-dce3d871accf,927.09,2023-01-12 13:46:19,"Miranda, Schwartz and Johnson",Food,1
+17017f3d-46d7-4533-8732-9005f6ea7e35,807.28,2023-05-08 13:09:32,Gray LLC,Clothing,0
+468f8449-d1df-47a9-b630-3444a98e88db,3079.06,2023-05-23 18:49:57,Reynolds PLC,Tech,0
+017fc785-44eb-404e-8a44-2a5365287bc6,2292.94,2023-04-28 14:28:15,Guzman PLC,Tech,0
+1f8d908c-6a5e-453b-b73a-97d1c9d62593,4857.44,2023-11-23 22:07:25,"Contreras, Martinez and Flores",Tech,0
+25b6f5cf-0b3b-412b-8c98-fac946da71c5,4202.68,2023-03-21 11:08:29,Nunez-Martinez,Food,0
+865185ed-f0e3-45bc-b5cf-30c6485c84b3,3492.14,2023-07-22 20:06:27,Soto Group,Clothing,0
+e2c17333-61c8-4bc7-8d75-6f47d5985d53,1609.6,2023-01-31 03:20:13,"Mullen, Poole and Wade",Travel,0
+60323db1-2fb7-4a52-9d96-3d5a4f33d004,2996.26,2023-02-27 04:49:55,"Harrison, Nunez and Carney",Tech,0
+ee31131e-3643-4402-b60e-d4d0a016bb66,1621.42,2023-01-22 14:52:48,Gonzalez-Cunningham,Clothing,0
+616d7cfd-b841-4cfb-943f-f432d7726e63,3172.73,2023-09-24 21:43:10,Lawrence Ltd,Travel,0
+1f251b31-1317-4914-935f-f4160ea7c8c6,2426.48,2023-12-11 11:53:12,"Jones, Leon and Haas",Travel,0
+734150d7-1379-46f1-8855-f1b64cee96f3,770.84,2023-03-22 10:10:33,Davis-Mullins,Travel,0
+32e17073-4a90-4876-a979-1a4fac50e9ab,3097.19,2023-09-15 01:35:42,Benjamin Group,Food,0
+e87e3789-8b74-4e8e-a574-72dbde860d3f,1363.46,2023-10-26 09:37:37,Williams Ltd,Tech,0
+1f7134d4-f84d-4736-b403-916e0914288e,3893.38,2023-03-03 14:30:30,"Marks, Wells and Reilly",Travel,0
+f765c21f-55c4-43e6-bb64-5337018f86d1,1329.21,2023-03-17 21:40:15,"Lawrence, Owen and Rivas",Food,1
+d755db56-1aab-46fa-be19-b67c0d465aa1,4357.42,2023-07-14 03:18:50,Barrett-Watson,Travel,1
+80c2dea5-d70e-468b-b71e-c0f6103efd87,1861.22,2023-01-26 20:15:47,Chan-Miller,Food,0
+0d18f763-5f59-419b-b1a0-efa1bf2a8297,2027.88,2023-05-30 21:28:49,"Olson, Medina and Oliver",Health,0
