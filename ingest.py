@@ -10,13 +10,11 @@ PG_HOST = "localhost"
 PG_PORT = "5432"
 PG_DATABASE = "excel_data_db"
 PG_USER = "postgres"
-PG_PASSWORD = "Reena123"
 
 MYSQL_HOST = "localhost"
 MYSQL_PORT = 3306
 MYSQL_DATABASE = "excel_data_db"
 MYSQL_USER = "root"
-MYSQL_PASSWORD = "Godisgood97"
 
 def get_csv_files(folder):
     files = []

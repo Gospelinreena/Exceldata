@@ -1,9 +1,6 @@
 import psycopg2
 import pymysql
 
-PG_PASSWORD = "Reena123"
-MYSQL_PASSWORD = "Godisgood97"
-
 print("PostgreSQL tables:")
 try:
     pg_conn = psycopg2.connect(
