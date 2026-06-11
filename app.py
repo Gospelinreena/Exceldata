@@ -15,7 +15,7 @@ os.makedirs(config.UPLOAD_FOLDER, exist_ok=True)
 def allowed_file(filename):
     return '.' in filename and filename.rsplit('.', 1)[1].lower() in config.ALLOWED_EXTENSIONS
 
-def load_and_clean_file(file_path):
+def load_file(file_path):
     if file_path.endswith('.csv'):
         try:
             df = pd.read_csv(file_path, encoding='utf-8')
@@ -32,7 +32,7 @@ def load_and_clean_file(file_path):
     df = df.where(pd.notnull(df), None)
     return df
 
-def insert_to_postgres(df, table_name):
+def insert_postgres(df, table_name):
     conn = psycopg2.connect(**config.PG_CONFIG)
     cursor = conn.cursor()
     
@@ -61,7 +61,7 @@ def insert_to_postgres(df, table_name):
     conn.close()
     return len(df)
 
-def insert_to_mysql(df, table_name):
+def insert_mysql(df, table_name):
     conn = pymysql.connect(**config.MYSQL_CONFIG)
     cursor = conn.cursor()
     
@@ -93,15 +93,15 @@ def insert_to_mysql(df, table_name):
 @app.route('/upload', methods=['POST'])
 def upload_file():
     if 'file' not in request.files:
-        return jsonify({'error': 'No file provided'}), 400
+        return jsonify({'error': 'No file provided'})
     
     file = request.files['file']
     
     if file.filename == '':
-        return jsonify({'error': 'No file selected'}), 400
+        return jsonify({'error': 'No file selected'})
     
     if not allowed_file(file.filename):
-        return jsonify({'error': f'File type not allowed. Allowed: {config.ALLOWED_EXTENSIONS}'}), 400
+        return jsonify({'error': f'File type not allowed. Allowed: {config.ALLOWED_EXTENSIONS}'})
     
     table_name = request.form.get('table_name', None)
     
@@ -110,13 +110,13 @@ def upload_file():
     file.save(file_path)
     
     try:
-        df = load_and_clean_file(file_path)
+        df = load_file(file_path)
         
         if not table_name:
             table_name = filename.rsplit('.', 1)[0].lower()
         
-        pg_rows = insert_to_postgres(df, table_name)
-        mysql_rows = insert_to_mysql(df, table_name)
+        pg_rows = insert_postgres(df, table_name)
+        mysql_rows = insert_mysql(df, table_name)
         
         os.remove(file_path)
         
@@ -128,12 +128,12 @@ def upload_file():
             'columns': len(df.columns),
             'postgresql': f'{pg_rows} rows inserted',
             'mysql': f'{mysql_rows} rows inserted'
-        }), 200
+        })
         
     except Exception as e:
         if os.path.exists(file_path):
             os.remove(file_path)
-        return jsonify({'error': str(e)}), 500
+        return jsonify({'error': str(e)})
 
 @app.route('/tables', methods=['GET'])
 def list_tables():
@@ -159,10 +159,10 @@ def list_tables():
             return jsonify({'database': 'mysql', 'tables': tables})
         
         else:
-            return jsonify({'error': 'Invalid database. Use postgresql or mysql'}), 400
+            return jsonify({'error': 'Invalid database. Use postgresql or mysql'})
             
     except Exception as e:
-        return jsonify({'error': str(e)}), 500
+        return jsonify({'error': str(e)})
 
 @app.route('/tables/<table_name>/count', methods=['GET'])
 def get_row_count(table_name):
@@ -188,10 +188,10 @@ def get_row_count(table_name):
             return jsonify({'table': table_name, 'database': 'mysql', 'rows': count})
         
         else:
-            return jsonify({'error': 'Invalid database'}), 400
+            return jsonify({'error': 'Invalid database'})
             
     except Exception as e:
-        return jsonify({'error': str(e)}), 500
+        return jsonify({'error': str(e)})
 
 @app.route('/tables/<table_name>/data', methods=['GET'])
 def get_table_data(table_name):
@@ -224,10 +224,10 @@ def get_table_data(table_name):
             })
         
         else:
-            return jsonify({'error': 'Invalid database'}), 400
+            return jsonify({'error': 'Invalid database'})
             
     except Exception as e:
-        return jsonify({'error': str(e)}), 500
+        return jsonify({'error': str(e)})
 
 @app.route('/tables/<table_name>', methods=['DELETE'])
 def delete_table(table_name):
@@ -253,10 +253,10 @@ def delete_table(table_name):
             return jsonify({'success': True, 'message': f'Table {table_name} deleted from MySQL'})
         
         else:
-            return jsonify({'error': 'Invalid database'}), 400
+            return jsonify({'error': 'Invalid database'})
             
     except Exception as e:
-        return jsonify({'error': str(e)}), 500
+        return jsonify({'error': str(e)})
     
 @app.route('/tables/<table_name>/search', methods=['GET'])
 def search_table(table_name):
@@ -265,7 +265,7 @@ def search_table(table_name):
     value = request.args.get('value')
     
     if not column or not value:
-        return jsonify({'error': 'Provide column and value parameters'}), 400
+        return jsonify({'error': 'Provide column and value parameters'})
     
     try:
         if database == 'postgresql':
@@ -297,10 +297,10 @@ def search_table(table_name):
             })
         
         else:
-            return jsonify({'error': 'Invalid database'}), 400
+            return jsonify({'error': 'Invalid database'})
             
     except Exception as e:
-        return jsonify({'error': str(e)}), 500
+        return jsonify({'error': str(e)})
 
 if __name__ == '__main__':
     app.run(host='0.0.0.0', port=5000, debug=True)
